@@ -1,0 +1,2841 @@
+VCF0004	
+
+STUDY VARIABLE: Year of Study
+VCF0006	
+
+STUDY VARIABLE: Study Respondent Number: Year-level Case ID
+VCF0006a	
+
+STUDY VARIABLE: Unique Respondent Number (Cross-year ID for panel cases)
+VCF0009x	
+
+STUDY VARIABLE: Weight: For 1970 type 0 - 2012 FTF sample
+VCF0009y	
+
+STUDY VARIABLE: Weight: For 1970 type 0 - 2012 Web sample
+VCF0009z	
+
+STUDY VARIABLE: Weight: For 1970 type 0 - 2012 full sample
+VCF0010x	
+
+STUDY VARIABLE: Weight: For 1970 type 1 - 2012 FTF sample
+VCF0010y	
+
+STUDY VARIABLE: Weight: For 1970 type 1 - 2012 Web sample
+VCF0010z	
+
+STUDY VARIABLE: Weight: For 1970 type 1 - 2012 full sample
+VCF0011x	
+
+STUDY VARIABLE: Weight: For 1970 type 2 - 2012 FTF sample
+VCF0011y	
+
+STUDY VARIABLE: Weight: For 1970 type 2 - 2012 Web sample
+VCF0011z	
+
+STUDY VARIABLE: Weight: For 1970 type 2 - 2012 full sample
+VCF0012	
+
+INTERVIEW DESCRIPTION: Form Filter for Paper Questionnaires
+VCF0013	
+
+INTERVIEW DESCRIPTION: Completion - Pre-election (flag)
+VCF0014	
+
+INTERVIEW DESCRIPTION: Completion - Post-election (flag)
+VCF0015a	
+
+INTERVIEW DESCRIPTION: Abbreviated Interview - Pre
+VCF0015b	
+
+INTERVIEW DESCRIPTION: Abbreviated Interview - Post
+VCF0016	
+
+STUDY VARIABLE: Cross-section composition: fresh Cross or panel case
+VCF0017	
+
+STUDY ADMIN: Mode of Interview
+VCF0018a	
+
+STUDY ADMIN: Language of Interview - Pre
+VCF0018b	
+
+STUDY ADMIN: Language of Interview - Post
+VCF0019	
+
+HOUSEHOLD COMPOSITION: R Relationship to Head of HH 1952-1986
+VCF0050a	
+
+IWR OBSERVATION: Respondent Level of Political Info - Pre
+VCF0050b	
+
+IWR OBSERVATION: Respondent Level of Political Info - Post
+VCF0070a	
+
+IWR DESCRIPTION: Interviewer Gender - Pre
+VCF0070b	
+
+IWR DESCRIPTION: Interviewer Gender - Post
+VCF0071a	
+
+IWR DESCRIPTION: Interviewer Race Full - Pre
+VCF0071b	
+
+IWR DESCRIPTION: Interviewer Race Full - Post
+VCF0071c	
+
+IWR DESCRIPTION: Interviewer Race 2-category - Pre
+VCF0071d	
+
+IWR DESCRIPTION: Interviewer Race 2-category - Post
+VCF0072a	
+
+IWR DESCRIPTION: Interviewer Ethnicity - Pre
+VCF0072b	
+
+IWR DESCRIPTION: Interviewer Ethnicity - Post
+VCF0101	
+
+DEMOGRAPHICS: Respondent - Age
+VCF0102	
+
+DEMOGRAPHICS: Respondent - Age Group
+VCF0103	
+
+DEMOGRAPHICS: Respondent - Cohort
+VCF0104	
+
+DEMOGRAPHICS: Respondent - Gender
+VCF0105a	
+
+DEMOCGRAPHICS: Race-ethnicity summary, 7 categories
+VCF0105b	
+
+DEMOGRAPHICS: Race-ethnicity summary, 4 categories
+VCF0106	
+
+DEMOGRAPHICS: Race summary, 3 categories
+VCF0107	
+
+DEMOGRAPHICS: Respondent - Hispanic Origin Type
+VCF0108	
+
+DEMOGRAPHICS: Respondent - Hispanic Origin
+VCF0109	
+
+DEMOGRAPHICS: Respondent - Ethnicity
+VCF0110	
+
+DEMOGRAPHICS: Respondent - Education 4-category
+VCF0111	
+
+SAMPLE DESCRIPTION: Urbanism
+VCF0112	
+
+SAMPLE DESCRIPTION: Census Region
+VCF0113	
+
+SAMPLE DESCRIPTION: Political South/Nonsouth
+VCF0114	
+
+DEMOGRAPHICS: Respondent Family - Income Group
+VCF0115	
+
+DEMOGRAPHICS: Respondent - Occupation Group 6-category
+VCF0116	
+
+DEMOGRAPHICS: Respondent - Work Status 7-category
+VCF0117	
+
+DEMOGRAPHICS: Head of HH - Work Status 7-category 1948-1986
+VCF0118	
+
+DEMOGRAPHICS: Respondent - Work Status 5-category
+VCF0119	
+
+DEMOGRAPHICS: Head of HH - Work Status 5-category 1952-1986
+VCF0120	
+
+DEMOGRAPHICS: Respondent - Prestige Score S.E.I. Rank 1976-1984
+VCF0121	
+
+DEMOGRAPHICS: Head of HH - Prestige Score S.E.I. Rank 1976-1984
+VCF0122	
+
+DEMOGRAPHICS: Respondent - Prestige Score NORC Rank 1976-1982
+VCF0123	
+
+DEMOGRAPHICS: Head of HH - Prestige Score NORC Rank 1976-1982
+VCF0124	
+
+DEMOGRAPHICS: Respondent - Prestige Score S.E.S. Rank 1968-1974
+VCF0125	
+
+DEMOGRAPHICS: Head of HH - Prestige Score S.E.S. Rank 1968-1974
+VCF0126	
+
+DEMOGRAPHICS: Father of Respondent - Occupation 5-category 1952-1996
+VCF0126a	
+
+DEMOGRAPHICS: Father of Respondent Occupation 8-category 1970-1976
+VCF0126b	
+
+DEMOGRAPHICS: Father of Respondent - Occupation Group 1978-1982,1996
+VCF0126c	
+
+DEMOGRAPHICS: Father of Respondent - Occupation Group 1984-1988,1992
+VCF0127	
+
+DEMOGRAPHICS: Household - Union Membership
+VCF0127a	
+
+DEMOGRAPHICS: Household - Who Belongs to Union 8-category
+VCF0127b	
+
+DEMOGRAPHICS: Household - Who Belongs to Union 4-category
+VCF0128	
+
+DEMOGRAPHICS: Respondent - Religion Major Group
+VCF0128a	
+
+DEMOGRAPHICS: Respondent - Religion 7-category 1960-1988
+VCF0128b	
+
+DEMOGRAPHICS: Respondent - Religion 8-category 1990-1996
+VCF0129	
+
+DEMOGRAPHICS: Respondent - Religion Full Code 1960-1988,2002
+VCF0130	
+
+DEMOGRAPHICS: Respondent - Church Attendance 1970-
+VCF0130a	
+
+DEMOGRAPHICS: Respondent - Church Attendance 1990-
+VCF0131	
+
+DEMOGRAPHICS: Respondent - Church Attendance 1952-1968
+VCF0132	
+
+DEMOGRAPHICS: Respondent - Where Grew Up: State 1968-
+VCF0133	
+
+DEMOGRAPHICS: Respondent - Where Grew Up: State 1952-1966
+VCF0134	
+
+DEMOGRAPHICS: Respondent - Where Grew Up: Farm 1952-1994,2000
+VCF0135	
+
+DEMOGRAPHICS: Respondent - Where Grew Up: Large City 1952-1994,2000
+VCF0136	
+
+DEMOGRAPHICS: Respondent - Where Grew Up: Urbanism 1956-1976
+VCF0137	
+
+DEMOGRAPHICS: Respondent - Where Grew Up: Urbanism 1978-2000
+VCF0138	
+
+HOUSEHOLD COMPOSITION: Number of Children
+VCF0138a	
+
+HOUSEHOLD COMPOSITION: Number Children Under Age 6
+VCF0138b	
+
+HOUSEHOLD COMPOSITION: Number Children Ages 6-9
+VCF0138c	
+
+HOUSEHOLD COMPOSITION: Number Children Ages 10-13
+VCF0138d	
+
+HOUSEHOLD COMPOSITION: Number Children Ages 14-17
+VCF0138e	
+
+HOUSEHOLD COMPOSITION: Age Youngest Child
+VCF0139	
+
+DEMOGRAPHICS: Respondent - How Many Children Does R Have
+VCF0140	
+
+DEMOGRAPHICS: Respondent - Education 6-category
+VCF0140a	
+
+DEMOGRAPHICS: Respondent - Education 7-category
+VCF0141	
+
+DEMOGRAPHICS: Head of HH - Education 6-category 1962-1986
+VCF0142	
+
+DEMOGRAPHICS: Respondent - Place of Birth
+VCF0143	
+
+DEMOGRAPHICS: Respondent Parents - Native Born
+VCF0144	
+
+DEMOGRAPHICS: Respondent Father - Where Born
+VCF0145	
+
+DEMOGRAPHICS: Respondent Mother - Where Born
+VCF0146	
+
+DEMOGRAPHICS: Respondent Family - Home Ownership
+VCF0147	
+
+DEMOGRAPHICS: Respondent - Marital Status
+VCF0148	
+
+DEMOGRAPHICS: Respondent - Social Class 8-category
+VCF0148a	
+
+DEMOGRAPHICS: Respondent - Average or Upper Middle/Working Class
+VCF0149	
+
+DEMOGRAPHICS: Respondent - Think of Self as Member of Social Class
+VCF0150	
+
+DEMOGRAPHICS: Respondent - Work Status 16-category
+VCF0151	
+
+DEMOGRAPHICS: Respondent - Occupation Group 5-Category
+VCF0152	
+
+DEMOGRAPHICS: Respondent - Religion Full Code 1990-
+VCF0153a	
+
+DEMOGRAPHICS: Mother of Respondent - Occupation 8-category 1970-1976
+VCF0153b	
+
+DEMOGRAPHICS: Mother of Respondent - Occupation Group 1978-1982
+VCF0153c	
+
+DEMOGRAPHICS: Mother of Respondent - Occupation Group 1984-1988
+VCF0154a	
+
+DEMOGRAPHICS: Respondent - Occupation 71-category
+VCF0154b	
+
+DEMOGRAPHICS: Respondent - Occupation 14-category
+VCF0155	
+
+DEMOGRAPHICS: Respondent - Worried about Find/Losing Job
+VCF0156	
+
+DEMOGRAPHICS: Respondent - Working R Laid off Last 6 Months
+VCF0157	
+
+DEMOGRAPHICS: Respondent - Working R Hours Reduced/Cut in Pay
+VCF0170a	
+
+SAMPLE DESCRIPTION: County of IW 1956-1960
+VCF0170b	
+
+SAMPLE DESCRIPTION: County of IW 1964-1976
+VCF0170c	
+
+SAMPLE DESCRIPTION: County of IW 1968-1982
+VCF0170d	
+
+SAMPLE DESCRIPTION: County of IW 1970,1978-1998
+VCF0201	
+
+GROUP THERMOMETER: Democrats
+VCF0202	
+
+GROUP THERMOMETER: Republicans
+VCF0203	
+
+GROUP THERMOMETER: Protestants
+VCF0204	
+
+GROUP THERMOMETER: Catholics
+VCF0205	
+
+GROUP THERMOMETER: Jews
+VCF0206	
+
+GROUP THERMOMETER: Blacks
+VCF0207	
+
+GROUP THERMOMETER: Whites
+VCF0208	
+
+GROUP THERMOMETER: Southerners
+VCF0209	
+
+GROUP THERMOMETER: Big Business
+VCF0210	
+
+GROUP THERMOMETER: Labor Unions
+VCF0211	
+
+GROUP THERMOMETER: Liberals
+VCF0212	
+
+GROUP THERMOMETER: Conservatives
+VCF0213	
+
+GROUP THERMOMETER: Military
+VCF0214	
+
+GROUP THERMOMETER: Policemen/Police
+VCF0215	
+
+GROUP THERMOMETER: Black Militants
+VCF0216	
+
+GROUP THERMOMETER: Civil Rights Leaders
+VCF0217	
+
+GROUP THERMOMETER: Chicanos/Hispanics
+VCF0218	
+
+GROUP THERMOMETER: Democratic Party
+VCF0219	
+
+GROUP THERMOMETER: Middle Class People
+VCF0220	
+
+GROUP THERMOMETER: People on Welfare
+VCF0221	
+
+GROUP THERMOMETER: Political Independents
+VCF0222	
+
+GROUP THERMOMETER: Political Parties
+VCF0223	
+
+GROUP THERMOMETER: Poor People
+VCF0224	
+
+GROUP THERMOMETER: Republican Party
+VCF0225	
+
+GROUP THERMOMETER: Womens Libbers
+VCF0226	
+
+GROUP THERMOMETER: Young People
+VCF0227	
+
+GROUP THERMOMETER: Asian-Americans
+VCF0228	
+
+GROUP THERMOMETER: Congress
+VCF0229	
+
+GROUP THERMOMETER: Environmentalists
+VCF0230	
+
+GROUP THERMOMETER: Anti-Abortionists
+VCF0231	
+
+GROUP THERMOMETER: Federal Government
+VCF0232	
+
+GROUP THERMOMETER: Gays and Lesbians
+VCF0233	
+
+GROUP THERMOMETER: Illegal Aliens
+VCF0234	
+
+GROUP THERMOMETER: Christian Fundamentalists
+VCF0235	
+
+GROUP THERMOMETER: Radical Students
+VCF0236	
+
+GROUP THERMOMETER: Farmers
+VCF0253	
+
+GROUP THERMOMETER: Feminists
+VCF0290	
+
+PARTIES: Major Party Thermometer Avg
+VCF0291	
+
+PARTIES: Major Party Thermometer Index
+VCF0301	
+
+PARTISANSHIP: Party Identification of Respondent- 7-point Scale
+VCF0302	
+
+PARTISANSHIP: Party Identification of Respondent- Initial Party ID Response
+VCF0303	
+
+PARTISANSHIP: Party Identification of Respondent- Summary 3-Category
+VCF0305	
+
+PARTISANSHIP: Party Identification of Respondent- Strength of Partisanship
+VCF0306	
+
+PARTISANSHIP: Party Identification of Respondent's Father
+VCF0307	
+
+PARTISANSHIP: Party Identification of Respondent's Mother
+VCF0308	
+
+PARTISANSHIP: Political Interest of Respondent's Father
+VCF0309	
+
+PARTISANSHIP: Political Interest of Respondent's Mother
+VCF0310	
+
+POLITICAL INTEREST: Interest in the Elections
+VCF0311	
+
+POLITICAL INTEREST: Does Respondent Care Which Party Wins Presidential Election
+VCF0312	
+
+POLITICAL INTEREST: Does Respondent Care Which Party Wins Congressional Election
+VCF0313	
+
+POLITICAL INTEREST: Interest in Public Affairs
+VCF0314	
+
+PARTIES: Democratic Party: What Respondent Likes - Number of Mentions
+VCF0315	
+
+PARTIES: Democratic Party: What Respondent Dislikes - Number of Mentions
+VCF0316	
+
+PARTIES: Democratic Party: Affect (Likes-Dislikes)
+VCF0317	
+
+PARTIES: Democratic Party: Salience (Likes-Dislikes)
+VCF0318	
+
+PARTIES: Republican Party: What Respondent Likes - Number of Mentions
+VCF0319	
+
+PARTIES: Republican Party: What Respondent Dislikes - Number of Mentions
+VCF0320	
+
+PARTIES: Republican Party: Affect (Likes-Dislikes)
+VCF0321	
+
+PARTIES: Republican Party: Salience (Likes-Dislikes)
+VCF0322	
+
+PARTIES: Major Parties: Affect (Likes-Dislikes)
+VCF0323	
+
+PARTIES: Major Parties: Salience (Likes-Dislikes)
+VCF0324	
+
+PARTIES: Major Parties: Relative Salience (Likes-Dislikes)
+VCF0338	
+
+CANDIDATE TRAITS: President- Intelligent
+VCF0339	
+
+CANDIDATE TRAITS: President- Compassionate
+VCF0340	
+
+CANDIDATE TRAITS: President- Decent
+VCF0341	
+
+CANDIDATE TRAITS: President- Inspiring
+VCF0342	
+
+CANDIDATE TRAITS: President- Knowledgeable
+VCF0343	
+
+CANDIDATE TRAITS: President- Moral
+VCF0344	
+
+CANDIDATE TRAITS: President- Leadership
+VCF0345	
+
+CANDIDATE TRAITS: President- Cares
+VCF0346	
+
+CANDIDATE AFFECTS: President- Angry
+VCF0347	
+
+CANDIDATE AFFECTS: President- Afraid
+VCF0348	
+
+CANDIDATE AFFECTS: President- Hopeful
+VCF0349	
+
+CANDIDATE AFFECTS: President- Proud
+VCF0350	
+
+CANDIDATE TRAITS: Democratic Presidential Cand- Intelligent
+VCF0351	
+
+CANDIDATE TRAITS: Democratic Presidential Cand- Compassionate
+VCF0352	
+
+CANDIDATE TRAITS: Democratic Presidential Cand- Decent
+VCF0353	
+
+CANDIDATE TRAITS: Democratic Presidential Cand- Inspiring
+VCF0354	
+
+CANDIDATE TRAITS: Democratic Presidential Cand- Knowledgeable
+VCF0355	
+
+CANDIDATE TRAITS: Democratic Presidential Cand- Moral
+VCF0356	
+
+CANDIDATE TRAITS: Democratic Presidential Cand- Leadership
+VCF0357	
+
+CANDIDATE TRAITS: Democratic Presidential Cand- Cares
+VCF0358	
+
+CANDIDATE AFFECTS: Democratic Presidential Cand- Angry
+VCF0359	
+
+CANDIDATE AFFECTS: Democratic Presidential Cand- Afraid
+VCF0360	
+
+CANDIDATE AFFECTS: Democratic Presidential Cand- Hopeful
+VCF0361	
+
+CANDIDATE AFFECTS: Democratic Presidential Cand- Proud
+VCF0362	
+
+CANDIDATE TRAITS: Republican Presidential Cand- Intelligent
+VCF0363	
+
+CANDIDATE TRAITS: Republican Presidential Cand- Compassionate
+VCF0364	
+
+CANDIDATE TRAITS: Republican Presidential Cand- Decent
+VCF0365	
+
+CANDIDATE TRAITS: Republican Presidential Cand- Inspiring
+VCF0366	
+
+CANDIDATE TRAITS: Republican Presidential Cand- Knowledgeable
+VCF0367	
+
+CANDIDATE TRAITS: Republican Presidential Cand- Moral
+VCF0368	
+
+CANDIDATE TRAITS: Republican Presidential Cand- Leadership
+VCF0369	
+
+CANDIDATE TRAITS: Republican Presidential Cand- Cares
+VCF0370	
+
+CANDIDATE AFFECTS: Republican Presidential Cand- Angry
+VCF0371	
+
+CANDIDATE AFFECTS: Republican Presidential Cand- Afraid
+VCF0372	
+
+CANDIDATE AFFECTS: Republican Presidential Cand- Hopeful
+VCF0373	
+
+CANDIDATE AFFECTS: Republican Presidential Cand- Proud
+VCF0374	
+
+PARTIES: Likes Anything about Democratic party
+VCF0375a	
+
+PARTIES: Mention 1: 1972-2004 Like About Democratic Party
+VCF0375b	
+
+PARTIES: Mention 1: 1972-2004 Like About Democratic Party COLLAPSED
+VCF0375c	
+
+PARTIES: Mention 1: 1952-1968 Like About Democratic Party
+VCF0375d	
+
+PARTIES: Mention 1: 1952-1968 Like About Democratic Party COLLAPSED
+VCF0376a	
+
+PARTIES: Mention 2: 1972-2004 Like About Democratic Party
+VCF0376b	
+
+PARTIES: Mention 2: 1972-2004 Like About Democratic Party COLLAPSED
+VCF0376c	
+
+PARTIES: Mention 2: 1952-1968 Like About Democratic Party
+VCF0376d	
+
+PARTIES: Mention 2: 1952-1968 Like About Democratic Party COLLAPSED
+VCF0377a	
+
+PARTIES: Mention 3: 1972-2004 Like About Democratic Party
+VCF0377b	
+
+PARTIES: Mention 3: 1972-2004 Like About Democratic Party COLLAPSED
+VCF0377c	
+
+PARTIES: Mention 3: 1952-1968 Like About Democratic Party
+VCF0377d	
+
+PARTIES: Mention 3: 1952-1968 Like About Democratic Party COLLAPSED
+VCF0378a	
+
+PARTIES: Mention 4: 1972-2004 Like About Democratic Party
+VCF0378b	
+
+PARTIES: Mention 4: 1972-2004 Like About Democratic Party COLLAPSED
+VCF0378c	
+
+PARTIES: Mention 4: 1952-1968 Like About Democratic Party
+VCF0378d	
+
+PARTIES: Mention 4: 1952-1968 Like About Democratic Party COLLAPSED
+VCF0379a	
+
+PARTIES: Mention 5: 1972-2004 Like About Democratic Party
+VCF0379b	
+
+PARTIES: Mention 5: 1972-2004 Like About Democratic Party COLLAPSED
+VCF0379c	
+
+PARTIES: Mention 5: 1952-1968 Like About Democratic Party
+VCF0379d	
+
+PARTIES: Mention 5: 1952-1968 Like About Democratic Party COLLAPSED
+VCF0380	
+
+PARTIES: Dislikes Anything about Democratic party
+VCF0381a	
+
+PARTIES: Mention 1: 1972-2004 Dislike About Democratic Party
+VCF0381b	
+
+PARTIES: Mention 1: 1972-2004 Dislike About Democratic Party COLLAPSED
+VCF0381c	
+
+PARTIES: Mention 1: 1952-1968 Dislike About Democratic Party
+VCF0381d	
+
+PARTIES: Mention 1: 1952-1968 Dislike About Democratic Party COLLAPSED
+VCF0382a	
+
+PARTIES: Mention 2: 1972-2004 Dislike About Democratic Party
+VCF0382b	
+
+PARTIES: Mention 2: 1972-2004 Dislike About Democratic Party COLLAPSED
+VCF0382c	
+
+PARTIES: Mention 2: 1952-1968 Dislike About Democratic Party
+VCF0382d	
+
+PARTIES: Mention 2: 1952-1968 Dislike About Democratic Party COLLAPSED
+VCF0383a	
+
+PARTIES: Mention 3: 1972-2004 Dislike About Democratic Party
+VCF0383b	
+
+PARTIES: Mention 3: 1972-2004 Dislike About Democratic Party COLLAPSED
+VCF0383c	
+
+PARTIES: Mention 3: 1952-1968 Dislike About Democratic Party
+VCF0383d	
+
+PARTIES: Mention 3: 1952-1968 Dislike About Democratic Party COLLAPSED
+VCF0384a	
+
+PARTIES: Mention 4: 1972-2004 Dislike About Democratic Party
+VCF0384b	
+
+PARTIES: Mention 4: 1972-2004 Dislike About Democratic Party COLLAPSED
+VCF0384c	
+
+PARTIES: Mention 4: 1952-1968 Dislike About Democratic Party
+VCF0384d	
+
+PARTIES: Mention 4: 1952-1968 Dislike About Democratic Party COLLAPSED
+VCF0385a	
+
+PARTIES: Mention 5: 1972-2004 Dislike About Democratic Party
+VCF0385b	
+
+PARTIES: Mention 5: 1972-2004 Dislike About Democratic Party COLLAPSED
+VCF0385c	
+
+PARTIES: Mention 5: 1952-1968 Dislike About Democratic Party
+VCF0385d	
+
+PARTIES: Mention 5: 1952-1968 Dislike About Democratic Party COLLAPSED
+VCF0386	
+
+PARTIES: Likes Anything about Republican party
+VCF0387a	
+
+PARTIES: Mention 1: 1972-2004 Like About Republican Party
+VCF0387b	
+
+PARTIES: Mention 1: 1972-2004 Like About Republican Party COLLAPSED
+VCF0387c	
+
+PARTIES: Mention 1: 1952-1968 Like About Republican Party
+VCF0387d	
+
+PARTIES: Mention 1: 1952-1968 Like About Republican Party COLLAPSED
+VCF0388a	
+
+PARTIES: Mention 2: 1972-2004 Like About Republican Party
+VCF0388b	
+
+PARTIES: Mention 2: 1972-2004 Like About Republican Party COLLAPSED
+VCF0388c	
+
+PARTIES: Mention 2: 1952-1968 Like About Republican Party
+VCF0388d	
+
+PARTIES: Mention 2: 1952-1968 Like About Republican Party COLLAPSED
+VCF0389a	
+
+PARTIES: Mention 3: 1972-2004 Like About Republican Party
+VCF0389b	
+
+PARTIES: Mention 3: 1972-2004 Like About Republican Party COLLAPSED
+VCF0389c	
+
+PARTIES: Mention 3: 1952-1968 Like About Republican Party
+VCF0389d	
+
+PARTIES: Mention 3: 1952-1968 Like About Republican Party COLLAPSED
+VCF0390a	
+
+PARTIES: Mention 4: 1972-2004 Like About Republican Party
+VCF0390b	
+
+PARTIES: Mention 4: 1972-2004 Like About Republican Party COLLAPSED
+VCF0390c	
+
+PARTIES: Mention 4: 1952-1968 Like About Republican Party
+VCF0390d	
+
+PARTIES: Mention 4: 1952-1968 Like About Republican Party COLLAPSED
+VCF0391a	
+
+PARTIES: Mention 5: 1972-2004 Like About Republican Party
+VCF0391b	
+
+PARTIES: Mention 5: 1972-2004 Like About Republican Party COLLAPSED
+VCF0391c	
+
+PARTIES: Mention 5: 1952-1968 Like About Republican Party
+VCF0391d	
+
+PARTIES: Mention 5: 1952-1968 Like About Republican Party COLLAPSED
+VCF0392	
+
+PARTIES: Dislikes Anything about Republican party
+VCF0393a	
+
+PARTIES: Mention 1: 1972-2004 Dislike About Republican Party
+VCF0393b	
+
+PARTIES: Mention 1: 1972-2004 Dislike About Republican Party COLLAPSED
+VCF0393c	
+
+PARTIES: Mention 1: 1952-1968 Dislike About Republican Party
+VCF0393d	
+
+PARTIES: Mention 1: 1952-1968 Dislike About Republican Party COLLAPSED
+VCF0394a	
+
+PARTIES: Mention 2: 1972-2004 Dislike About Republican Party
+VCF0394b	
+
+PARTIES: Mention 2: 1972-2004 Dislike About Republican Party COLLAPSED
+VCF0394c	
+
+PARTIES: Mention 2: 1952-1968 Dislike About Republican Party
+VCF0394d	
+
+PARTIES: Mention 2: 1952-1968 Dislike About Republican Party COLLAPSED
+VCF0395a	
+
+PARTIES: Mention 3: 1972-2004 Dislike About Republican Party
+VCF0395b	
+
+PARTIES: Mention 3: 1972-2004 Dislike About Republican Party COLLAPSED
+VCF0395c	
+
+PARTIES: Mention 3: 1952-1968 Dislike About Republican Party
+VCF0395d	
+
+PARTIES: Mention 3: 1952-1968 Dislike About Republican Party COLLAPSED
+VCF0396a	
+
+PARTIES: Mention 4: 1972-2004 Dislike About Republican Party
+VCF0396b	
+
+PARTIES: Mention 4: 1972-2004 Dislike About Republican Party COLLAPSED
+VCF0396c	
+
+PARTIES: Mention 4: 1952-1968 Dislike About Republican Party
+VCF0396d	
+
+PARTIES: Mention 4: 1952-1968 Dislike About Republican Party COLLAPSED
+VCF0397a	
+
+PARTIES: Mention 5: 1972-2004 Dislike About Republican Party
+VCF0397b	
+
+PARTIES: Mention 5: 1972-2004 Dislike About Republican Party COLLAPSED
+VCF0397c	
+
+PARTIES: Mention 5: 1952-1968 Dislike About Republican Party
+VCF0397d	
+
+PARTIES: Mention 5: 1952-1968 Dislike About Republican Party COLLAPSED
+VCF0401	
+
+CANDIDATES: Democratic Presidential Cand: What Respondent Likes - Number of Mentions
+VCF0402	
+
+CANDIDATES: Democratic Presidential Cand: What Respondent Dislikes - Number of Mentions
+VCF0403	
+
+CANDIDATES: Democratic Presidential Cand: Affect (Likes-Dislikes)
+VCF0404	
+
+CANDIDATES: Democratic Presidential Cand: Salience (Likes-Dislikes)
+VCF0405	
+
+CANDIDATES: Republican Presidential Cand: What Respondent Likes - Number of Mentions
+VCF0406	
+
+CANDIDATES: Republican Presidential Cand: What Respondent Dislikes - Number of Mentions
+VCF0407	
+
+CANDIDATES: Republican Presidential Cand: Affect (Likes-Dislikes)
+VCF0408	
+
+CANDIDATES: Republican Presidential Cand: Salience (Likes-Dislikes)
+VCF0409	
+
+CANDIDATES: Presidential Candidates: Affect (Likes-Dislikes)
+VCF0410	
+
+CANDIDATES: Presidential Candidates: Salience (Likes-Dislikes)
+VCF0411	
+
+CANDIDATES: Presidential Candidates: Relative Salience (Likes-Dislikes)
+VCF0412	
+
+CANDIDATES: Presidential Candidates: Thermometer Avg
+VCF0413	
+
+CANDIDATES: Presidential Candidates: Thermometer Index
+VCF0414	
+
+CANDIDATES: Vice-Presidential Candidates: Thermometer Avg
+VCF0415	
+
+CANDIDATES: Vice-Presidential Candidates: Thermometer Index
+VCF0424	
+
+POLITICAL FIGURE THERMOMETER: Republican Presidential Candidate
+VCF0425	
+
+POLITICAL FIGURE THERMOMETER: Democratic Vice-presidential Candidate
+VCF0426	
+
+POLITICAL FIGURE THERMOMETER: Republican Presidential Candidate
+VCF0427	
+
+POLITICAL FIGURE THERMOMETER: Republican Vice-presidential Candidate
+VCF0428	
+
+POLITICAL FIGURE THERMOMETER: U.S. President
+VCF0429	
+
+POLITICAL FIGURE THERMOMETER: Vice-president
+VCF0432	
+
+POLITICAL FIGURE THERMOMETER: Hubert Humphrey
+VCF0433	
+
+POLITICAL FIGURE THERMOMETER: Ted Kennedy
+VCF0434	
+
+POLITICAL FIGURE THERMOMETER: Eugene McCarthy
+VCF0435	
+
+POLITICAL FIGURE THERMOMETER: George McGovern
+VCF0436	
+
+POLITICAL FIGURE THERMOMETER: Walter Mondale
+VCF0437	
+
+POLITICAL FIGURE THERMOMETER: Edmund Muskie
+VCF0438	
+
+POLITICAL FIGURE THERMOMETER: George Bush Sr.
+VCF0439	
+
+POLITICAL FIGURE THERMOMETER: George Wallace
+VCF0440	
+
+POLITICAL FIGURE THERMOMETER: Spiro Agnew
+VCF0441	
+
+POLITICAL FIGURE THERMOMETER: Gerald Ford
+VCF0442	
+
+POLITICAL FIGURE THERMOMETER: Richard Nixon
+VCF0443	
+
+POLITICAL FIGURE THERMOMETER: Ronald Reagan
+VCF0444	
+
+POLITICAL FIGURE THERMOMETER: Nelson Rockefeller
+VCF0445	
+
+POLITICAL FIGURE THERMOMETER: Robert Dole
+VCF0446	
+
+POLITICAL FIGURE THERMOMETER: Jimmy Carter
+VCF0447	
+
+POLITICAL FIGURE THERMOMETER: Bill Clinton
+VCF0448	
+
+POLITICAL FIGURE THERMOMETER: Al Gore
+VCF0449	
+
+POLITICAL FIGURE THERMOMETER: Ross Perot
+VCF0450	
+
+SYSTEM SUPPORT: Approve of President Performance
+VCF0451	
+
+SYSTEM SUPPORT: Strength Approve/Disapprove President Performance
+VCF0471	
+
+POLITICAL FIGURE THERMOMETER: Hillary Clinton
+VCF0472	
+
+POLITICAL FIGURE THERMOMETER: Pat Buchanan
+VCF0473	
+
+POLITICAL FIGURE THERMOMETER: Dan Quayle
+VCF0475	
+
+CANDIDATES: Likes Anything about Democratic Presidential Cand
+VCF0476a	
+
+CANDIDATES: Mention 1: 1972-2004 Like About Democratic Presidential Cand
+VCF0476b	
+
+CANDIDATES: Mention 1: 1972-2004 Like About Democratic Presidential Cand COLLAPSED
+VCF0476c	
+
+CANDIDATES: Mention 1: 1952-1968 Like About Democratic Presidential Cand
+VCF0476d	
+
+CANDIDATES: Mention 1: 1952-1968 Like About Democratic Presidential Cand COLLAPSED
+VCF0477a	
+
+CANDIDATES: Mention 2: 1972-2004 Like About Democratic Presidential Cand
+VCF0477b	
+
+CANDIDATES: Mention 2: 1972-2004 Like About Democratic Presidential Cand COLLAPSED
+VCF0477c	
+
+CANDIDATES: Mention 2: 1952-1968 Like About Democratic Presidential Cand
+VCF0477d	
+
+CANDIDATES: Mention 2: 1952-1968 Like About Democratic Presidential Cand COLLAPSED
+VCF0478a	
+
+CANDIDATES: Mention 3: 1972-2004 Like About Democratic Presidential Cand
+VCF0478b	
+
+CANDIDATES: Mention 3: 1972-2004 Like About Democratic Presidential Cand COLLAPSED
+VCF0478c	
+
+CANDIDATES: Mention 3: 1952-1968 Like About Democratic Presidential Cand
+VCF0478d	
+
+CANDIDATES: Mention 3: 1952-1968 Like About Democratic Presidential Cand COLLAPSED
+VCF0479a	
+
+CANDIDATES: Mention 4: 1972-2004 Like About Democratic Presidential Cand
+VCF0479b	
+
+CANDIDATES: Mention 4: 1972-2004 Like About Democratic Presidential Cand COLLAPSED
+VCF0479c	
+
+CANDIDATES: Mention 4: 1952-1968 Like About Democratic Presidential Cand
+VCF0479d	
+
+CANDIDATES: Mention 4: 1952-1968 Like About Democratic Presidential Cand COLLAPSED
+VCF0480a	
+
+CANDIDATES: Mention 5: 1972-2004 Like About Democratic Presidential Cand
+VCF0480b	
+
+CANDIDATES: Mention 5: 1972-2004 Like About Democratic Presidential Cand COLLAPSED
+VCF0480c	
+
+CANDIDATES: Mention 5: 1952-1968 Like About Democratic Presidential Cand
+VCF0480d	
+
+CANDIDATES: Mention 5: 1952-1968 Like About Democratic Presidential Cand COLLAPSED
+VCF0481	
+
+CANDIDATES: Dislikes Anything about Democratic Presidential Cand
+VCF0482a	
+
+CANDIDATES: Mention 1: 1972-2004 Dislike About Democratic Presidential Cand
+VCF0482b	
+
+CANDIDATES: Mention 1: 1972-2004 Dislike About Democratic Presidential Cand COLLAPSED
+VCF0482c	
+
+CANDIDATES: Mention 1: 1952-1968 Dislike About Democratic Presidential Cand
+VCF0482d	
+
+CANDIDATES: Mention 1: 1952-1968 Dislike About Democratic Presidential Cand COLLAPSED
+VCF0483a	
+
+CANDIDATES: Mention 2: 1972-2004 Dislike About Democratic Presidential Cand
+VCF0483b	
+
+CANDIDATES: Mention 2: 1972-2004 Dislike About Democratic Presidential Cand COLLAPSED
+VCF0483c	
+
+CANDIDATES: Mention 2: 1952-1968 Dislike About Democratic Presidential Cand
+VCF0483d	
+
+CANDIDATES: Mention 2: 1952-1968 Dislike About Democratic Presidential Cand COLLAPSED
+VCF0484a	
+
+CANDIDATES: Mention 3: 1972-2004 Dislike About Democratic Presidential Cand
+VCF0484b	
+
+CANDIDATES: Mention 3: 1972-2004 Dislike About Democratic Presidential Cand COLLAPSED
+VCF0484c	
+
+CANDIDATES: Mention 3: 1952-1968 Dislike About Democratic Presidential Cand
+VCF0484d	
+
+CANDIDATES: Mention 3: 1952-1968 Dislike About Democratic Presidential Cand COLLAPSED
+VCF0485a	
+
+CANDIDATES: Mention 4: 1972-2004 Dislike About Democratic Presidential Cand
+VCF0485b	
+
+CANDIDATES: Mention 4: 1972-2004 Dislike About Democratic Presidential Cand COLLAPSED
+VCF0485c	
+
+CANDIDATES: Mention 4: 1952-1968 Dislike About Democratic Presidential Cand
+VCF0485d	
+
+CANDIDATES: Mention 4: 1952-1968 Dislike About Democratic Presidential Cand COLLAPSED
+VCF0486a	
+
+CANDIDATES: Mention 5: 1972-2004 Dislike About Democratic Presidential Cand
+VCF0486b	
+
+CANDIDATES: Mention 5: 1972-2004 Dislike About Democratic Presidential Cand COLLAPSED
+VCF0486c	
+
+CANDIDATES: Mention 5: 1952-1968 Dislike About Democratic Presidential Cand
+VCF0486d	
+
+CANDIDATES: Mention 5: 1952-1968 Dislike About Democratic Presidential Cand COLLAPSED
+VCF0487	
+
+CANDIDATES: Likes anything about Republican Presidential Cand
+VCF0488a	
+
+CANDIDATES: Mention 1: 1972-2004 Like About Republican Presidential Cand
+VCF0488b	
+
+CANDIDATES: Mention 1: 1972-2004 Like About Republican Presidential Cand COLLAPSED
+VCF0488c	
+
+CANDIDATES: Mention 1: 1952-1968 Like About Republican Presidential Cand
+VCF0488d	
+
+CANDIDATES: Mention 1: 1952-1968 Like About Republican Presidential Cand COLLAPSED
+VCF0489a	
+
+CANDIDATES: Mention 2: 1972-2004 Like About Republican Presidential Cand
+VCF0489b	
+
+CANDIDATES: Mention 2: 1972-2004 Like About Republican Presidential Cand COLLAPSED
+VCF0489c	
+
+CANDIDATES: Mention 2: 1952-1968 Like About Republican Presidential Cand
+VCF0489d	
+
+CANDIDATES: Mention 2: 1952-1968 Like About Republican Presidential Cand COLLAPSED
+VCF0490a	
+
+CANDIDATES: Mention 3: 1972-2004 Like About Republican Presidential Cand
+VCF0490b	
+
+CANDIDATES: Mention 3: 1972-2004 Like About Republican Presidential Cand COLLAPSED
+VCF0490c	
+
+CANDIDATES: Mention 3: 1952-1968 Like About Republican Presidential Cand
+VCF0490d	
+
+CANDIDATES: Mention 3: 1952-1968 Like About Republican Presidential Cand COLLAPSED
+VCF0491a	
+
+CANDIDATES: Mention 4: 1972-2004 Like About Republican Presidential Cand
+VCF0491b	
+
+CANDIDATES: Mention 4: 1972-2004 Like About Republican Presidential Cand COLLAPSED
+VCF0491c	
+
+CANDIDATES: Mention 4: 1952-1968 Like About Republican Presidential Cand
+VCF0491d	
+
+CANDIDATES: Mention 4: 1952-1968 Like About Republican Presidential Cand COLLAPSED
+VCF0492a	
+
+CANDIDATES: Mention 5: 1972-2004 Like About Republican Presidential Cand
+VCF0492b	
+
+CANDIDATES: Mention 5: 1972-2004 Like About Republican Presidential Cand COLLAPSED
+VCF0492c	
+
+CANDIDATES: Mention 5: 1952-1968 Like About Republican Presidential Cand
+VCF0492d	
+
+CANDIDATES: Mention 5: 1952-1968 Like About Republican Presidential Cand COLLAPSED
+VCF0493	
+
+CANDIDATES: Dislikes anything about Republican Presidential Cand
+VCF0494a	
+
+CANDIDATES: Mention 1: 1972-2004 Dislike About Republican Presidential Cand
+VCF0494b	
+
+CANDIDATES: Mention 1: 1972-2004 Dislike About Republican Presidential Cand COLLAPSED
+VCF0494c	
+
+CANDIDATES: Mention 1: 1952-1968 Dislike About Republican Presidential Cand
+VCF0494d	
+
+CANDIDATES: Mention 1: 1952-1968 Dislike About Republican Presidential Cand COLLAPSED
+VCF0495a	
+
+CANDIDATES: Mention 2: 1972-2004 Dislike About Republican Presidential Cand
+VCF0495b	
+
+CANDIDATES: Mention 2: 1972-2004 Dislike About Republican Presidential Cand COLLAPSED
+VCF0495c	
+
+CANDIDATES: Mention 2: 1952-1968 Dislike About Republican Presidential Cand
+VCF0495d	
+
+CANDIDATES: Mention 2: 1952-1968 Dislike About Republican Presidential Cand COLLAPSED
+VCF0496a	
+
+CANDIDATES: Mention 3: 1972-2004 Dislike About Republican Presidential Cand
+VCF0496b	
+
+CANDIDATES: Mention 3: 1972-2004 Dislike About Republican Presidential Cand COLLAPSED
+VCF0496c	
+
+CANDIDATES: Mention 3: 1952-1968 Dislike About Republican Presidential Cand
+VCF0496d	
+
+CANDIDATES: Mention 3: 1952-1968 Dislike About Republican Presidential Cand COLLAPSED
+VCF0497a	
+
+CANDIDATES: Mention 4: 1972-2004 Dislike About Republican Presidential Cand
+VCF0497b	
+
+CANDIDATES: Mention 4: 1972-2004 Dislike About Republican Presidential Cand COLLAPSED
+VCF0497c	
+
+CANDIDATES: Mention 4: 1952-1968 Dislike About Republican Presidential Cand
+VCF0497d	
+
+CANDIDATES: Mention 4: 1952-1968 Dislike About Republican Presidential Cand COLLAPSED
+VCF0498a	
+
+CANDIDATES: Mention 5: 1972-2004 Dislike About Republican Presidential Cand
+VCF0498b	
+
+CANDIDATES: Mention 5: 1972-2004 Dislike About Republican Presidential Cand COLLAPSED
+VCF0498c	
+
+CANDIDATES: Mention 5: 1952-1968 Dislike About Republican Presidential Cand
+VCF0498d	
+
+CANDIDATES: Mention 5: 1952-1968 Dislike About Republican Presidential Cand COLLAPSED
+VCF0501	
+
+PARTIES: Difference Between Major Parties
+VCF0502	
+
+PARTIES: Which Major Party is More Conservative 3-Category
+VCF0502a	
+
+PARTIES: Which Major Party is More Conservative 4-Category
+VCF0503	
+
+PARTIES: Democratic Party- Liberal-Conservative Scale
+VCF0504	
+
+PARTIES: Republican Party- Liberal-Conservative Scale
+VCF0507	
+
+PARTIES: Which Favors Government Help With Medical Care
+VCF0508	
+
+PARTIES: Democratic Party- Government Health Insurance Scale
+VCF0509	
+
+PARTIES: Republican Party- Government Health Insurance Scale
+VCF0512	
+
+PARTIES: Which Favors Guaranteed Jobs and Standard of Living
+VCF0513	
+
+PARTIES: Democratic Party- Guaranteed Jobs-Living Scale
+VCF0514	
+
+PARTIES: Republican Party- Guaranteed Jobs-Living Scale
+VCF0517	
+
+PARTIES: Democratic Party- Aid to Blacks Scale
+VCF0518	
+
+PARTIES: Republican Party- Aid to Blacks Scale
+VCF0521	
+
+PARTIES: Which Favors Stronger Government
+VCF0521a	
+
+PARTIES: Which Favors Stronger Government w/ No Opinion
+VCF0522	
+
+PARTIES: Which Will Best Avoid War/Bigger War
+VCF0523	
+
+PARTIES: Which Favors Military Spending Cut
+VCF0524	
+
+PARTIES: Democratic Party- Rights of Accused Scale
+VCF0525	
+
+PARTIES: Republican Party- Rights of Accused Scale
+VCF0528	
+
+PARTIES: Democratic Party- Urban Unrest Scale
+VCF0529	
+
+PARTIES: Republican Party- Urban Unrest Scale
+VCF0533	
+
+PARTIES: Democratic Party- School Busing Scale
+VCF0534	
+
+PARTIES: Republican Party- School Busing Scale
+VCF0537	
+
+PARTIES: Democratic Party- Women Equal Role Scale
+VCF0538	
+
+PARTIES: Republican Party- Women Equal Role Scale
+VCF0541	
+
+PARTIES: Democratic Party- Government Services-Spending Scale
+VCF0542	
+
+PARTIES: Republican Party- Government Services-Spending Scale
+VCF0545	
+
+PARTIES: Democratic Party- Cooperation with U.S.S.R. Scale
+VCF0546	
+
+PARTIES: Republican Party- Cooperation with U.S.S.R. Scale
+VCF0549	
+
+PARTIES: Democratic Party- Defense Spending Scale
+VCF0550	
+
+PARTIES: Republican Party- Defense Spending Scale
+VCF0601	
+
+SYSTEM SUPPORT: Approve Participation in Protests
+VCF0602	
+
+SYSTEM SUPPORT: Approve Civil Disobedience
+VCF0603	
+
+SYSTEM SUPPORT: Approve Demonstrations
+VCF0604	
+
+SYSTEM SUPPORT: Trust the Federal Government To Do What is Right
+VCF0605	
+
+SYSTEM SUPPORT: Federal Government Run by Few Interests or for the Benefit of All
+VCF0606	
+
+SYSTEM SUPPORT: How Much Does the Federal Government Waste Tax Money
+VCF0607	
+
+SYSTEM SUPPORT: How Many Government Officials Are Smart
+VCF0608	
+
+SYSTEM SUPPORT: How Many Government Officials Are Crooked
+VCF0609	
+
+SYSTEM SUPPORT: Government Officials Care What People Like Respondent Think
+VCF0610	
+
+SYSTEM SUPPORT: Congressmen Lose Touch with Constituents
+VCF0611	
+
+SYSTEM SUPPORT: Parties Only Interested in Votes
+VCF0612	
+
+SYSTEM SUPPORT: Voting is the Only Way to Have a Say in Government
+VCF0613	
+
+SYSTEM SUPPORT: People like Respondent Have Any Say in What the Government Does
+VCF0614	
+
+SYSTEM SUPPORT: Politics and Government Seem Too Complicated
+VCF0615	
+
+SYSTEM SUPPORT: Matter Whether Respondent Votes or Not
+VCF0616	
+
+SYSTEM SUPPORT: Should Those Who Don't Care About Election Outcome Vote
+VCF0617	
+
+SYSTEM SUPPORT: Should Someone Vote If Their Party Can't Win
+VCF0618	
+
+SYSTEM SUPPORT: A Good Many Local Elections Unimportant
+VCF0619	
+
+SOCIAL TRUST: Most People Can Be Trusted OR: Can't Be Too Careful With People
+VCF0620	
+
+SOCIAL TRUST: People Are Helpful OR: People Look Out for Themselves
+VCF0621	
+
+SOCIAL TRUST: People Will Take Advantage of Others OR: People Will Try to be Fair
+VCF0622	
+
+SYSTEM SUPPORT: How Much Government Pays Attention to What People Think
+VCF0623	
+
+SYSTEM SUPPORT: How Much Parties Make Government Pay Attention to People
+VCF0624	
+
+SYSTEM SUPPORT: How Much Elections Make Government Pay Attention to People
+VCF0625	
+
+SYSTEM SUPPORT: How Much Attention Congressmen Pay to Constituents
+VCF0626	
+
+PERSONAL EFFICACY: Respondent Usually Able to Carry Out Plans as Expected
+VCF0627	
+
+PERSONAL EFFICACY: Better to Plan Life a Good Way Ahead
+VCF0628	
+
+PERSONAL EFFICACY: Sure Life Would Work out as Expected
+VCF0629	
+
+PERSONAL EFFICACY: Can Run Life as Wanted
+VCF0630	
+
+SYSTEM SUPPORT: Government Level Respondent Has Most Faith in
+VCF0631	
+
+SYSTEM SUPPORT: Government Level Respondent Has Least Faith in
+VCF0632	
+
+SYSTEM SUPPORT: Branch of Government Respondent Trusts Most
+VCF0633	
+
+SYSTEM SUPPORT: Branch of Government Respondent Trusts 2nd Most
+VCF0634	
+
+SYSTEM SUPPORT: Branch of Government Respondent Trusts Least
+VCF0640	
+
+SYSTEM SUPPORT: Government Handling of Most Important Problem mentioned by Respondent
+VCF0648	
+
+SYSTEM SUPPORT: External Efficacy Index
+VCF0649	
+
+SYSTEM SUPPORT: Government Responsiveness Index
+VCF0650	
+
+SYSTEM SUPPORT: Federal Government Performance Rating
+VCF0651	
+
+SYSTEM SUPPORT: State Government Performance Rating
+VCF0652	
+
+SYSTEM SUPPORT: Local Government Performance Rating
+VCF0653	
+
+SYSTEM SUPPORT: Presidency Performance Rating
+VCF0654	
+
+SYSTEM SUPPORT: Congress Performance Rating
+VCF0655	
+
+SYSTEM SUPPORT: Supreme Court Performance Rating
+VCF0656	
+
+SYSTEM SUPPORT: Trust in Government Index
+VCF0675	
+
+MEDIA: How Much of the Time Does Respondent Trust the Media to Report Fairly
+VCF0700	
+
+ELECTION: Who Will Be Elected President in November
+VCF0701	
+
+ELECTION: Registered to Vote Pre-Election
+VCF0702	
+
+ELECTION: Did Respondent Vote in the National Elections
+VCF0703	
+
+ELECTION: Register and Turnout SUMMARY
+VCF0704	
+
+ELECTION: Vote for President- Major Candidates
+VCF0704a	
+
+ELECTION: Vote for President- Major Parties
+VCF0705	
+
+ELECTION: Vote for President- Major Parties and Other
+VCF0706	
+
+ELECTION: Vote and Nonvote- President
+VCF0707	
+
+ELECTION: Vote for Congressman
+VCF0708	
+
+ELECTION: Vote for Senator
+VCF0709	
+
+ELECTION: Vote Ticket-splitting- President/House
+VCF0710	
+
+ELECTION: Vote Ticket-splitting- President/Senate
+VCF0711	
+
+ELECTION: Does Respondent Always Vote for the Same Party
+VCF0712	
+
+ELECTION: Timing of Respondent's Presidential Vote Decision
+VCF0713	
+
+ELECTION: Respondent Pre-election Intent for Vote for President
+VCF0714	
+
+ELECTION: Will the Presidential Election Be Close
+VCF0715	
+
+ELECTION: State/Local Vote Straight Ticker or Split 5-Category
+VCF0716	
+
+ELECTION: State/Local Vote Straight Ticker or Split 2-Category
+VCF0717	
+
+MOBILIZATION: Respondent Try to Influence the Vote of Others During the Campaign
+VCF0718	
+
+MOBILIZATION: Respondent Attend Political Meetings/Rallies During the Campaign
+VCF0719	
+
+MOBILIZATION: Respondent Work for Party or Candidate During the Campaign
+VCF0720	
+
+MOBILIZATION: Respondent Display Candidate Button/Sticker During the Campaign
+VCF0721	
+
+MOBILIZATION: Respondent Donate Money to Party or Candidate During the Campaign
+VCF0722	
+
+POLITICAL ENGAGEMENT: Has Respondent Ever Written a Letter to a Public Official
+VCF0723	
+
+MOBILIZATION: Count of Campaign Participation Activities 6-Category
+VCF0723a	
+
+MOBILIZATION: Count of Campaign Participation Activities 4-Category
+VCF0724	
+
+MEDIA: Watch TV Programs about the Election Campaigns
+VCF0725	
+
+MEDIA: Hear Programs about Campaigns on the Radio 2-Category
+VCF0726	
+
+MEDIA: Articles about Election Campaigns in Magazines
+VCF0727	
+
+MEDIA: Number of Articles about Election Campaigns in Magazines
+VCF0728	
+
+MEDIA: Count of Media Exposure Types
+VCF0729	
+
+POLITICAL KNOWLEDGE: Party with House Majority Before the Election
+VCF0730	
+
+POLITICAL KNOWLEDGE: Party with House Majority After the Election
+VCF0731	
+
+POLITICAL ENGAGEMENT: Respondent Discuss Politics with Family and Friends
+VCF0732	
+
+POLITICAL ENGAGEMENT: How Often Respondent Discusses Politics with Family and Friends
+VCF0733	
+
+POLITICAL ENGAGEMENT: How Often in the Last Week Respondent Discussed Politics
+VCF0734	
+
+ELECTION: Intended Presidential Vote versus Actual Presidential Vote
+VCF0735	
+
+ELECTION: Vote for U.S. House- Candidate Code
+VCF0736	
+
+ELECTION: Vote for U.S. House- Party
+VCF0737	
+
+ELECTION: Registered to Vote Post-Election
+VCF0738	
+
+ELECTION: Party of Registration Post-election
+VCF0738a	
+
+ELECTION: Party of Registration Pre-election
+VCF0739	
+
+MOBILIZATION: Respondent Made $1 Tax Checkoff for Political Contribution
+VCF0740	
+
+MOBILIZATION: Contribute to Political Party During the Campaigns
+VCF0741	
+
+MOBILIZATION: Contribute to PAC During the Campaigns
+VCF0742	
+
+MOBILIZATION: Give Money to Individual Candidate During the Campaigns
+VCF0743	
+
+POLITICAL ENGAGEMENT: Does R Belong to Political Organization or Club
+VCF0744	
+
+MEDIA: Have Access to Internet
+VCF0745	
+
+MEDIA: Saw Election Campaign Information on the Internet
+VCF0746	
+
+MOBILIZATION: Did Religious/Moral Group Try to Influence Respondent Vote
+VCF0747	
+
+MOBILIZATION: Information about Candidates/Parties/Issues at Church
+VCF0748	
+
+ELECTION: Voted on Election Day or Before
+VCF0749	
+
+ELECTION: How Long Before Election Did Respondent Vote
+VCF0750	
+
+ELECTION: Vote in Person Or with Absentee Ballot
+VCF0801	
+
+IDEOLOGY: Index for Thermometer Rating of Liberals and Conservatives
+VCF0803	
+
+IDEOLOGY: Liberal-Conservative Scale
+VCF0804	
+
+IDEOLOGY: Liberal-Conservative Scale 1972- COLLAPSED
+VCF0805	
+
+ISSUES: Government Assistance with Medical Care
+VCF0806	
+
+ISSUES: Government Health Insurance Scale
+VCF0808	
+
+ISSUES: Guaranteed Jobs and Income
+VCF0809	
+
+ISSUES: Guaranteed Jobs and Income Scale
+VCF0811	
+
+ISSUES: Urban Unrest Scale
+VCF0813	
+
+ISSUES: How Much Has the Position of Blacks Changed
+VCF0814	
+
+ISSUES: Civil Rights Pushes Too Fast or Not Fast Enough
+VCF0815	
+
+ISSUES: Segregation or Desegregation
+VCF0816	
+
+ISSUES: Should Government Ensure School Integration
+VCF0817	
+
+ISSUES: School Busing Scale
+VCF0818	
+
+ISSUES: Should Government Ensure Fair Jobs/Housing for Blacks
+VCF0819	
+
+ISSUES: Open Housing
+VCF0820	
+
+ISSUES: Do Whites in the Area Favor Segregation
+VCF0821	
+
+ISSUES: Do Blacks in the Area Favor Desegregation
+VCF0822	
+
+ISSUES: Rating of Government Economic Policy
+VCF0823	
+
+ISSUES: Better off if U.S. Unconcerned with Rest of World
+VCF0824	
+
+ISSUES: If Compelled to Choose Liberal or Conservative
+VCF0825	
+
+ISSUES: How Likely for U.S. to be at War/in Bigger War
+VCF0826	
+
+ISSUES: Did U.S. Do Right Thing Getting Involved in War
+VCF0827	
+
+ISSUES: How Should U.S. Proceed in Current War
+VCF0827a	
+
+ISSUES: U.S. Stand in Vietnam Scale
+VCF0828	
+
+ISSUES: Should Government Cut Military Spending
+VCF0829	
+
+ISSUES: Is the Government in Washington Too Strong
+VCF0830	
+
+ISSUES: Aid to Blacks Scale
+VCF0832	
+
+ISSUES: Rights of the Accused Scale
+VCF0833	
+
+ISSUES: Favor or Oppose Equal Rights Amendment
+VCF0834	
+
+ISSUES: Women Equal Role Scale
+VCF0836	
+
+ISSUES: Should Women Stay out of Politics
+VCF0837	
+
+ISSUES: When Should Abortion Be Allowed
+VCF0838	
+
+ISSUES: By Law, When Should Abortion Be Allowed
+VCF0839	
+
+ISSUES: Government Services-Spending Scale
+VCF0840	
+
+ISSUES: Favor or Oppose Term Limits
+VCF0841	
+
+ISSUES: Cooperation with U.S.S.R. Scale
+VCF0842	
+
+ISSUES: Environmental Regulation Scale
+VCF0843	
+
+ISSUES: Defense Spending Scale
+VCF0844	
+
+ISSUES: How Willing Should U.S. Be to Use Military Force
+VCF0845	
+
+RELIGIOSITY: Authority of the Bible 1964-1990
+VCF0846	
+
+RELIGIOSITY: Is Religion Important to Respondent
+VCF0847	
+
+RELIGIOSITY: How Much Guidance from Religion
+VCF0848	
+
+ISSUES: Concern about Conventional War
+VCF0848a	
+
+ISSUES: Concern about Nuclear War
+VCF0849	
+
+IDEOLOGY: Liberal-Conservative Position 1984- COLLAPSED
+VCF0850	
+
+RELIGIOSITY: Authority of the Bible 1984-
+VCF0851	
+
+MORAL TRADITIONALISM: Newer Lifestyles Contribute to Society Breakdown
+VCF0852	
+
+MORAL TRADITIONALISM: Should Adjust View of Moral Behavior to Changes
+VCF0853	
+
+MORAL TRADITIONALISM: Should be More Emphasis on Traditional Values
+VCF0854	
+
+MORAL TRADITIONALISM: Tolerance of Different Moral Standards
+VCF0860	
+
+DEMOGRAPHICS: Racial Composition of Neighborhood- Respondent Description
+VCF0861	
+
+DEMOGRAPHICS: Racial Composition of Grade School- Respondent Description
+VCF0862	
+
+DEMOGRAPHICS: Racial Composition of Junior High School
+VCF0863	
+
+DEMOGRAPHICS: Racial Composition of High School- Respondent Description
+VCF0864	
+
+DEMOGRAPHICS: Racial Composition of Work Place- Respondent Description
+VCF0865	
+
+DEMOGRAPHICS: Racial Composition of Where R Shops- Respondent Description
+VCF0866	
+
+DEMOGRAPHICS: Racial Composition of Friends
+VCF0867	
+
+ISSUES: Affirmative Action in Hiring/Promotion [1 of 2]
+VCF0867a	
+
+ISSUES: Affirmative Action in Hiring/Promotion [2 of 2]
+VCF0870	
+
+ISSUES: Better or Worse Economy in Past Year
+VCF0871	
+
+ISSUES: How Much Better or Worse Economy in Past Year
+VCF0872	
+
+ISSUES: Better or Worse Economy in Next Year
+VCF0873	
+
+ECONOMIC WELL-BEING: Did R Delay Medical/Dental Treatment Due to the Expense
+VCF0875	
+
+ISSUES: Mention 1: What is the Most Important National Problem
+VCF0875a	
+
+ISSUES: Mention 2: What is the Most Important National Problem
+VCF0875b	
+
+ISSUES: Mention 3: What is the Most Important National Problem
+VCF0876	
+
+ISSUES: Law to Protect Homosexuals Against Discrimination
+VCF0876a	
+
+ISSUES: Strength of Position on Law to Protect Homosexuals Against Discrimination
+VCF0877	
+
+ISSUES: Favor or Oppose Gays in the Military
+VCF0877a	
+
+ISSUES: Strength of Position on Gays in the Military
+VCF0878	
+
+ISSUES: Should Gays/Lesbians Be Able to Adopt Children
+VCF0879	
+
+ISSUES: Increase or Decrease Number of Immigrants to U.S. 6-Category
+VCF0879a	
+
+ISSUES: Increase or Decrease Number of Immigrants to U.S. 4-Category
+VCF0880	
+
+ECONOMIC WELL-BEING: Better or Worse Off in Past Year
+VCF0880a	
+
+ECONOMIC WELL-BEING: How Much Better/Worse Off in Past Year
+VCF0880b	
+
+ECONOMIC WELL-BEING: Financial Situation Better/Worse in Past Few Years
+VCF0881	
+
+ECONOMIC WELL-BEING: Better or Worse Off in Next Year
+VCF0886	
+
+ISSUES: Federal Spending- Poor/Poor People
+VCF0887	
+
+ISSUES: Federal Spending- Child Care
+VCF0888	
+
+ISSUES: Federal Spending- Dealing with Crime
+VCF0889	
+
+ISSUES: Federal Spending- Aids Research/Fight Aids
+VCF0890	
+
+ISSUES: Federal Spending- Public Schools
+VCF0891	
+
+ISSUES: Federal Spending- Fin Aid for College Students
+VCF0892	
+
+ISSUES: Federal Spending- Foreign Aid
+VCF0893	
+
+ISSUES: Federal Spending- The Homeless
+VCF0894	
+
+ISSUES: Federal Spending- Welfare Programs
+VCF0900	
+
+SAMPLE DESCRIPTION: Congressional District of Residence
+VCF0900b	
+
+SAMPLE DESCRIPTION: State and Congressional District- FIPS
+VCF0900c	
+
+SAMPLE DESCRIPTION: State and Congressional District- Postal Abbrev and CD
+VCF0901a	
+
+SAMPLE DESCRIPTION: State Code- FIPS
+VCF0901b	
+
+SAMPLE DESCRIPTION: State Postal Abbrev
+VCF0902	
+
+ELECTION/RACE DESCRIPTION: Type of U.S. House Race
+VCF0903	
+
+ELECTION/RACE DESCRIPTION: Is House Incumbent Running
+VCF0904	
+
+ELECTION/RACE DESCRIPTION: Is House Incumbent Opposed
+VCF0905	
+
+ELECTION/RACE DESCRIPTION: Number of Candidates in U.S. House Race
+VCF0906	
+
+POLITICAL FIGURE THERMOMETER: Democratic House Candidate
+VCF0907	
+
+POLITICAL FIGURE THERMOMETER: Republican House Candidate
+VCF0908	
+
+POLITICAL FIGURE THERMOMETER: Incumbent House Candidate
+VCF0909	
+
+POLITICAL FIGURE THERMOMETER: Challenger House Candidate
+VCF0910	
+
+CANDIDATE CONTACT: Contact with Running U.S. House Incumbent
+VCF0911	
+
+CANDIDATE CONTACT: Running U.S. House Incumbent: Met Him
+VCF0912	
+
+CANDIDATE CONTACT: Running U.S. House Incumbent: Attended Meeting
+VCF0913	
+
+CANDIDATE CONTACT: Running U.S. House Incumbent: Talked to Staff
+VCF0914	
+
+CANDIDATE CONTACT: Running U.S. House Incumbent: Received Mail
+VCF0915	
+
+CANDIDATE CONTACT: Running U.S. House Incumbent: Read About
+VCF0916	
+
+CANDIDATE CONTACT: Running U.S. House Incumbent: Heard on Radio
+VCF0917	
+
+CANDIDATE CONTACT: Running U.S. House Incumbent: Saw on TV
+VCF0918	
+
+CANDIDATE CONTACT: Know Anyone Who had Contact with Running U.S. House Incumbent
+VCF0919	
+
+CANDIDATE CONTACT: Challenger to Running U.S. House Incumbent
+VCF0920	
+
+CANDIDATE CONTACT: Challenger to U.S. House Running Incumbent: Met Him
+VCF0921	
+
+CANDIDATE CONTACT: Challenger to U.S. House Running Incumbent: Attended Meeting
+VCF0922	
+
+CANDIDATE CONTACT: Challenger to U.S. House Running Incumbent: Talked to Staff
+VCF0923	
+
+CANDIDATE CONTACT: Challenger to U.S. House Running Incumbent: Received Mail
+VCF0924	
+
+CANDIDATE CONTACT: Challenger to U.S. House Running Incumbent: Read About
+VCF0925	
+
+CANDIDATE CONTACT: Challenger to U.S. House Running Incumbent: Heard on Radio
+VCF0926	
+
+CANDIDATE CONTACT: Challenger to U.S. House Running Incumbent: Saw on TV
+VCF0927	
+
+CANDIDATE CONTACT: Know Anyone Who had Contact with Challenger to Running U.S. House Incumbent
+VCF0928	
+
+CANDIDATE CONTACT: Contact with U.S. House Democratic Cand
+VCF0929	
+
+CANDIDATE CONTACT: U.S. House Democratic Cand: Met Him
+VCF0930	
+
+CANDIDATE CONTACT: U.S. House Democratic Cand: Attended Meeting
+VCF0931	
+
+CANDIDATE CONTACT: U.S. House Democratic Cand: Talked to Staff
+VCF0932	
+
+CANDIDATE CONTACT: U.S. House Democratic Cand: Received Mail
+VCF0933	
+
+CANDIDATE CONTACT: U.S. House Democratic Cand: Read About
+VCF0934	
+
+CANDIDATE CONTACT: U.S. House Democratic Cand: Heard on Radio
+VCF0935	
+
+CANDIDATE CONTACT: U.S. House Democratic Cand: Saw on TV
+VCF0936	
+
+CANDIDATE CONTACT: Know Anyone Who had Contact with U.S. House Democratic Cand
+VCF0937	
+
+CANDIDATE CONTACT: Contact with U.S. House Republican Cand
+VCF0938	
+
+CANDIDATE CONTACT: U.S. House Republican Cand: Met Him
+VCF0939	
+
+CANDIDATE CONTACT: U.S. House Republican Cand: Attended Meeting
+VCF0940	
+
+CANDIDATE CONTACT: U.S. House Republican Cand: Talked to Staff
+VCF0941	
+
+CANDIDATE CONTACT: U.S. House Republican Cand: Received Mail
+VCF0942	
+
+CANDIDATE CONTACT: U.S. House Republican Cand: Read About
+VCF0943	
+
+CANDIDATE CONTACT: U.S. House Republican Cand: Heard on Radio
+VCF0944	
+
+CANDIDATE CONTACT: U.S. House Republican Cand: Saw on TV
+VCF0945	
+
+CANDIDATE CONTACT: Know Anyone Who had Contact with U.S. House Republican Cand
+VCF0946	
+
+CANDIDATE CONTACT: Count of Contact Types- Running U.S. House Incumbent Cand
+VCF0946a	
+
+CANDIDATE CONTACT: Yes/No Any Contact with Running U.S. House Incumbent Cand
+VCF0947	
+
+CANDIDATE CONTACT: Count of Contact Types- Challenger to Running U.S. House Incumbent Cand
+VCF0947a	
+
+CANDIDATE CONTACT: Yes/No Any Contact with Challenger to Running U.S. House Incumbent Cand
+VCF0948	
+
+CANDIDATE CONTACT: Count of Contact Types- U.S. House Democratic Cand
+VCF0948a	
+
+CANDIDATE CONTACT: Yes/No Any Contact with U.S. House Democratic Cand
+VCF0949	
+
+CANDIDATE CONTACT: Count of Contact Types- U.S. House Republican Cand
+VCF0949a	
+
+CANDIDATE CONTACT: Yes/No Any Contact with U.S. House Republican Cand
+VCF0950	
+
+POLITICAL ENGAGEMENT: Contacted Running U.S. House Incumbent
+VCF0951	
+
+POLITICAL ENGAGEMENT: Contacted Running U.S. House Incumbent to Express Opinion
+VCF0952	
+
+POLITICAL ENGAGEMENT: Contacted Running U.S. House Incumbent to Seek Information
+VCF0953	
+
+POLITICAL ENGAGEMENT: Contacted Running U.S. House Incumbent to Seek Help
+VCF0954	
+
+POLITICAL ENGAGEMENT: Response to Contact with Running U.S. House Incumbent
+VCF0955	
+
+POLITICAL ENGAGEMENT: Satisfied w/Response from Running U.S. House Incumbent
+VCF0956	
+
+POLITICAL ENGAGEMENT: Know Anyone (Else) Who Contacted Running U.S. House Incumbent
+VCF0957	
+
+POLITICAL ENGAGEMENT: Other Person Get Response from Running U.S. House Incumbent
+VCF0958	
+
+POLITICAL ENGAGEMENT: Other Person Satisfied w/Response from Running U.S. House Incumbent
+VCF0959	
+
+POLITICAL ENGAGEMENT: Would Running U.S. House Incumbent be Helpful with Problem
+VCF0960	
+
+POLITICAL ENGAGEMENT: Running U.S. House Incumbent Done Anything Special for District
+VCF0961	
+
+POLITICAL ENGAGEMENT: Contacted Running or Retiring U.S. House Incumbent
+VCF0962	
+
+POLITICAL ENGAGEMENT: Contacted Running or Retiring U.S. House Incumbent to Express Opinion
+VCF0963	
+
+POLITICAL ENGAGEMENT: Contacted Running or Retiring U.S. House Incumbent to Seek Information
+VCF0964	
+
+POLITICAL ENGAGEMENT: Contacted Running or Retiring U.S. House Incumbent to Seek Help
+VCF0965	
+
+POLITICAL ENGAGEMENT: Response to Contact with Running or Retiring U.S. House Incumbent
+VCF0966	
+
+POLITICAL ENGAGEMENT: Satisfied w/Response from Running or Retiring U.S. House Incumbent
+VCF0967	
+
+POLITICAL ENGAGEMENT: Know Anyone (Else) Who Contacted Running or Retiring U.S. House Incumbent
+VCF0968	
+
+POLITICAL ENGAGEMENT: Other Person Get Response from Running or Retiring U.S. House Incumbent
+VCF0969	
+
+POLITICAL ENGAGEMENT: Other Person Satisfied w/Response from Running or Retiring U.S. House Incumbent
+VCF0970	
+
+POLITICAL ENGAGEMENT: Would Running or Retiring U.S. House Incumbent be Helpful with Problem
+VCF0971	
+
+POLITICAL ENGAGEMENT: Running or Retiring U.S. House Incumbent Done Anything Special for District
+VCF0972	
+
+POLITICAL KNOWLEDGE: Recall Names of U.S. House Candidates
+VCF0973	
+
+POLITICAL KNOWLEDGE Mention 1: Recall Correct Name of U.S. House Candidate
+VCF0974	
+
+POLITICAL KNOWLEDGE Mention 2: Recall Correct Name of U.S. House Candidate
+VCF0975	
+
+POLITICAL KNOWLEDGE Mention 3: Recall Correct Name of U.S. House Candidate
+VCF0976	
+
+POLITICAL KNOWLEDGE: Number of Recalled Names of U.S. House Candidates
+VCF0977	
+
+POLITICAL KNOWLEDGE: Know If One U.S. House Candidate Was Already in the U.S. House
+VCF0978	
+
+POLITICAL KNOWLEDGE: Correct Whether a U.S. House Candidate Was Already in Office
+VCF0980	
+
+CANDIDATES: Democratic U.S. House Cand: What Respondent Likes - Number of Mentions
+VCF0981	
+
+CANDIDATES: Democratic U.S. House Cand: What Respondent Dislikes - Number of Mentions
+VCF0982	
+
+CANDIDATES: Democratic U.S. House Candidate Affect (Likes-Dislikes)
+VCF0983	
+
+CANDIDATES: Democratic U.S. House Candidate Salience (Likes-Dislikes)
+VCF0984	
+
+CANDIDATES: Republican U.S. House Cand: What Respondent Likes - Number of Mentions
+VCF0985	
+
+CANDIDATES: Republican U.S. House Cand: What Respondent Dislikes - Number of Mentions
+VCF0986	
+
+CANDIDATES: Republican U.S. House Cand: Affect (Likes-Dislikes)
+VCF0987	
+
+CANDIDATES: Republican U.S. House Cand: Salience (Likes-Dislikes)
+VCF0988	
+
+CANDIDATES: Republican U.S. House Candidate Affect (Likes-Dislikes)
+VCF0989	
+
+CANDIDATES: U.S. House Candidate Salience (Likes-Dislikes)
+VCF0990	
+
+CANDIDATES: U.S. House Candidate Relative Salience (Likes-Dislikes)
+VCF0991	
+
+SYSTEM SUPPORT: Approve/Disapprove of Running U.S. House Incumbent
+VCF0992	
+
+SYSTEM SUPPORT: Approve/Disapprove of U.S. Congress
+VCF0993	
+
+CANDIDATES: Incumbent U.S. House Cand: What Respondent Likes - Number of Mentions
+VCF0994	
+
+CANDIDATES: Incumbent U.S. House Cand: What Respondent Dislikes - Number of Mentions
+VCF0995	
+
+CANDIDATES: Incumbent U.S. House Cand: Affect (Likes-Dislikes)
+VCF0996	
+
+CANDIDATES: Incumbent U.S. House Cand: Salience (Likes-Dislikes)
+VCF0997	
+
+CANDIDATES: Challenger to Incumbent U.S. House Cand: What Respondent Likes - Number of Mentions
+VCF0998	
+
+CANDIDATES: Challenger to Incumbent U.S. House Cand: What Respondent Dislikes - Number of Mentions
+VCF0999	
+
+CANDIDATES: Challenger to Incumbent U.S. House Cand: Affect (Likes-Dislikes)
+VCF1000	
+
+CANDIDATES: Challenger to Incumbent U.S. House Cand: Salience (Likes-Dislikes)
+VCF1001	
+
+CANDIDATES: U.S. House Candidate Affect (Likes-Dislikes)
+VCF1002	
+
+CANDIDATES: U.S. House Candidate Salience (Likes-Dislikes)
+VCF1003	
+
+CANDIDATES: U.S. House Candidate Relative Salience (Likes-Dislikes)
+VCF1004	
+
+PARTISANSHIP: Party of Respondent/Party of U.S. House Incumbent from district of IW
+VCF1005	
+
+PARTISANSHIP: Party of Voting Respondent/Party of U.S. House Incumbent from district of IW
+VCF1006	
+
+POLITICAL KNOWLEDGE Mention 1: Candidate Code of Correctly Recalled U.S. House Candidate from district of IW
+VCF1007	
+
+POLITICAL KNOWLEDGE Mention 2: Candidate Code of Correctly Recalled U.S. House Candidate from district of IW
+VCF1008	
+
+POLITICAL KNOWLEDGE Mention 3: Candidate Code of Correctly Recalled U.S. House Candidate from district of IW
+VCF1009	
+
+POLITICAL KNOWLEDGE: Party of Recalled U.S. House Candidate Name(s) for district of IW
+VCF1010	
+
+POLITICAL KNOWLEDGE: Respondent Recall U.S. House Cand Name From Respondent's Own Party for district of IW
+VCF1011	
+
+ELECTION: Respondent Vote for U.S. House Candidate From Own Party in district of IW
+VCF1012	
+
+ELECTION: Respondent Vote for Incumbent U.S. House Candidate in district of IW
+VCF1013	
+
+ELECTION: Respondent Vote for Winning U.S. House Candidate in district of IW
+VCF1014	
+
+ELECTION/RACEDESCRIPTION: Winning U.S. House Candidate in district of IW
+VCF1015	
+
+STUDY ADMIN: Number of Days Pre-Election IW Conducted Before Election
+VCF1016	
+
+STUDY ADMIN: Number of Days Post-Election IW Conducted After Election
+VCF1017	
+
+CANDIDATES: U.S. House Candidate Thermometer Avg
+VCF1018	
+
+CANDIDATES: U.S. House Candidate Thermometer Index
+VCF1020	
+
+CANDIDATES: Likes anything about Democratic U.S. House Cand
+VCF1021a	
+
+CANDIDATES: Mention 1: 1972-2004 Like About Democratic U.S. House Cand
+VCF1021b	
+
+CANDIDATES: Mention 1: 1972-2004 Like About Democratic U.S. House Cand COLLAPSED
+VCF1022a	
+
+CANDIDATES: Mention 2: 1972-2004 Like About Democratic U.S. House Cand
+VCF1022b	
+
+CANDIDATES: Mention 2: 1972-2004 Like About Democratic U.S. House Cand COLLAPSED
+VCF1023a	
+
+CANDIDATES: Mention 3: 1972-2004 Like About Democratic U.S. House Cand
+VCF1023b	
+
+CANDIDATES: Mention 3: 1972-2004 Like About Democratic U.S. House Cand COLLAPSED
+VCF1024a	
+
+CANDIDATES: Mention 4: 1972-2004 Like About Democratic U.S. House Cand
+VCF1024b	
+
+CANDIDATES: Mention 4: 1972-2004 Like About Democratic U.S. House Cand COLLAPSED
+VCF1025a	
+
+CANDIDATES: Mention 5: 1972-2004 Like About Democratic U.S. House Cand
+VCF1025b	
+
+CANDIDATES: Mention 5: 1972-2004 Like About Democratic U.S. House Cand COLLAPSED
+VCF1026	
+
+CANDIDATES: Dislikes anything about Democratic U.S. House Cand
+VCF1027a	
+
+CANDIDATES: Mention 1: 1972-2004 Dislike About Democratic U.S. House Cand
+VCF1027b	
+
+CANDIDATES: Mention 1: 1972-2004 Dislike About Democratic U.S. House Cand COLLAPSED
+VCF1028a	
+
+CANDIDATES: Mention 2: 1972-2004 Dislike About Democratic U.S. House Cand
+VCF1028b	
+
+CANDIDATES: Mention 2: 1972-2004 Dislike About Democratic U.S. House Cand COLLAPSED
+VCF1029a	
+
+CANDIDATES: Mention 3: 1972-2004 Dislike About Democratic U.S. House Cand
+VCF1029b	
+
+CANDIDATES: Mention 3: 1972-2004 Dislike About Democratic U.S. House Cand COLLAPSED
+VCF1030a	
+
+CANDIDATES: Mention 4: 1972-2004 Dislike About Democratic U.S. House Cand
+VCF1030b	
+
+CANDIDATES: Mention 4: 1972-2004 Dislike About Democratic U.S. House Cand COLLAPSED
+VCF1031a	
+
+CANDIDATES: Mention 5: 1972-2004 Dislike About Democratic U.S. House Cand
+VCF1031b	
+
+CANDIDATES: Mention 5: 1972-2004 Dislike About Democratic U.S. House Cand COLLAPSED
+VCF1032	
+
+CANDIDATES: Likes anything about Republican U.S. House Cand
+VCF1033a	
+
+CANDIDATES: Mention 1: 1972-2004 Like About Republican U.S. House Cand
+VCF1033b	
+
+CANDIDATES: Mention 1: 1972-2004 Like About Republican U.S. House Cand COLLAPSED
+VCF1034a	
+
+CANDIDATES: Mention 2: 1972-2004 Like About Republican U.S. House Cand
+VCF1034b	
+
+CANDIDATES: Mention 2: 1972-2004 Like About Republican U.S. House Cand COLLAPSED
+VCF1035a	
+
+CANDIDATES: Mention 3: 1972-2004 Like About Republican U.S. House Cand
+VCF1035b	
+
+CANDIDATES: Mention 3: 1972-2004 Like About Republican U.S. House Cand COLLAPSED
+VCF1036a	
+
+CANDIDATES: Mention 4: 1972-2004 Like About Republican U.S. House Cand
+VCF1036b	
+
+CANDIDATES: Mention 4: 1972-2004 Like About Republican U.S. House Cand COLLAPSED
+VCF1037a	
+
+CANDIDATES: Mention 5: 1972-2004 Like About Republican U.S. House Cand
+VCF1037b	
+
+CANDIDATES: Mention 5: 1972-2004 Like About Republican U.S. House Cand COLLAPSED
+VCF1038	
+
+CANDIDATES: Dislikes anything about Republican U.S. House Cand
+VCF1039a	
+
+CANDIDATES: Mention 1: 1972-2004 Dislike About Republican U.S. House Cand
+VCF1039b	
+
+CANDIDATES: Mention 1: 1972-2004 Dislike About Republican U.S. House Cand COLLAPSED
+VCF1040a	
+
+CANDIDATES: Mention 2: 1972-2004 Dislike About Republican U.S. House Cand
+VCF1040b	
+
+CANDIDATES: Mention 2: 1972-2004 Dislike About Republican U.S. House Cand COLLAPSED
+VCF1041a	
+
+CANDIDATES: Mention 3: 1972-2004 Dislike About Republican U.S. House Cand
+VCF1041b	
+
+CANDIDATES: Mention 3: 1972-2004 Dislike About Republican U.S. House Cand COLLAPSED
+VCF1042a	
+
+CANDIDATES: Mention 4: 1972-2004 Dislike About Republican U.S. House Cand
+VCF1042b	
+
+CANDIDATES: Mention 4: 1972-2004 Dislike About Republican U.S. House Cand COLLAPSED
+VCF1043a	
+
+CANDIDATES: Mention 5: 1972-2004 Dislike About Republican U.S. House Cand
+VCF1043b	
+
+CANDIDATES: Mention 5: 1972-2004 Dislike About Republican U.S. House Cand COLLAPSED
+VCF9001	
+
+DEMOGRAPHICS: Length of Residence in Community
+VCF9002	
+
+DEMOGRAPHICS: Length of Residence in Home
+VCF9003	
+
+GROUP THERMOMETER: Evangelical Groups
+VCF9004	
+
+GROUP THERMOMETER: Elderly
+VCF9005	
+
+GROUP THERMOMETER: Supreme Court
+VCF9006	
+
+GROUP THERMOMETER: Women
+VCF9007	
+
+POLITICAL FIGURE THERMOMETER: Jesse Jackson
+VCF9008	
+
+PARTIES: Which Would Best Handle Most Important Problem mentioned by Respondent
+VCF9009	
+
+SYSTEM SUPPORT: Approve of President Performance on Economy
+VCF9010	
+
+PARTIES: Which Would Best Handle Inflation
+VCF9011	
+
+PARTIES: Which Would Best Handle Unemployment
+VCF9012	
+
+PARTIES: Which Would Best Handle MIP
+VCF9013	
+
+EQUALITARIANISM: Society Ensure Equal Opportunity to Succeed
+VCF9014	
+
+EQUALITARIANISM: We Have Gone Too Far Pushing Equal Rights
+VCF9015	
+
+EQUALITARIANISM: Big Problem that Not Everyone Has Equal Chance
+VCF9016	
+
+EQUALITARIANISM: Not Big Problem if Some Have More Chance in Life
+VCF9017	
+
+EQUALITARIANISM: Should Worry less about How Equal People Are
+VCF9018	
+
+EQUALITARIANISM: U.S. Fewer Problems if Everyone Treated Equally
+VCF9019	
+
+CONDITION/GOALS OF U.S.: Most Desirable Goal for the Nation: #1
+VCF9020	
+
+CONDITION/GOALS OF U.S.: Most Desirable Goal for the Nation: #2
+VCF9021	
+
+MOBILIZATION: Did Anyone Talk to R about Voting or Registering
+VCF9022	
+
+ELECTION: Voter Strength of Preference- Presidential Cand
+VCF9023	
+
+ELECTION: Nonvoter Strength of Preference- Presidential Cand
+VCF9024	
+
+ELECTION: Voter Strength of Preference- U.S. House Cand
+VCF9025	
+
+ELECTION: Vote for Governor- Party
+VCF9026	
+
+ELECTION: Vote in Presidential Primary- Party
+VCF9027	
+
+ELECTION: Vote in Previous Presidential Election - Party
+VCF9028	
+
+POLITICAL ENGAGEMENT: Which Presidential Candidate Will Win in State
+VCF9029	
+
+POLITICAL ENGAGEMENT: Which Presidential Race in State Be Close
+VCF9030	
+
+MOBILIZATION: Contacted By Which Major Party
+VCF9030a	
+
+MOBILIZATION: Contacted By Any Major Party
+VCF9030b	
+
+MOBILIZATION: Contacted By Democratic Party
+VCF9030c	
+
+MOBILIZATION: Contacted By Republican Party
+VCF9031	
+
+MOBILIZATION: Contacted By Anyone Other than Parties
+VCF9032	
+
+MEDIA: Hear Programs about Campaigns on the Radio 4-Category
+VCF9033	
+
+MEDIA: Number of Days Read Newspaper in Last Week
+VCF9034	
+
+MEDIA: Read Daily Newspaper
+VCF9035	
+
+MEDIA: Number of Days Watched National TV News in Past Week
+VCF9036	
+
+POLITICAL KNOWLEDGE: Party with Senate Majority Before the Election
+VCF9037	
+
+ISSUES: Government Should Ensure Fair Jobs for Blacks
+VCF9038	
+
+ISSUES: Guaranteed Equal Opportunity Is Not Government Job
+VCF9039	
+
+RACIAL RESENTMENT: Conditions Make it Difficult for Blacks to Succeed
+VCF9040	
+
+RACIAL RESENTMENT: Blacks Should Not Have Special Favors to Succeed
+VCF9041	
+
+RACIAL RESENTMENT: Blacks Must Try Harder to Succeed
+VCF9042	
+
+RACIALRESENTMENT: Blacks Gotten Less than They Deserve Over the Past Few Years
+VCF9043	
+
+ISSUES: School Prayer Allowed 4-Category
+VCF9043a	
+
+ISSUES: Strength of Opinion When School Prayer Allowed 4-Category
+VCF9044	
+
+ECONOMIC WELL-BEING: Effect of Federal Economic Policies 7-Category
+VCF9044a	
+
+ECONOMIC WELL-BEING: Effect of Federal Economic Policies 3-Category
+VCF9045	
+
+CONDITION/GOALSOF U.S.: Position of the U.S. Weaker/Stronger in the Past Year
+VCF9046	
+
+ISSUES: Federal Spending- Food Stamps
+VCF9047	
+
+ISSUES: Federal Spending- Improve and Protect the Environment
+VCF9048	
+
+ISSUES: Federal Spending- Space/Science/Technology
+VCF9049	
+
+ISSUES: Federal Spending- Social Security
+VCF9050	
+
+ISSUES: Federal Spending- Assistance to Blacks
+VCF9051	
+
+ISSUES: School Prayer Allowed 2-Category
+VCF9052	
+
+CONDITION/GOALS OF U.S.: Are Things in U.S. Going Well or Not
+VCF9053	
+
+ECONOMIC WELL-BEING: Income Kept Up with Costs in Last Year
+VCF9054	
+
+ELECTION/RACE DESCRIPTION: Senate Race in State
+VCF9055	
+
+ELECTION/RACE DESCRIPTION: Type of U.S. Senate Race
+VCF9056	
+
+POLITICAL FIGURE THERMOMETER: Senate Democratic Candidate
+VCF9057	
+
+POLITICAL FIGURE THERMOMETER: Senate Republican Candidate
+VCF9058	
+
+POLITICAL FIGURE THERMOMETER: Senate Incumbent Candidate
+VCF9059	
+
+POLITICAL FIGURE THERMOMETER: Senate Challenger
+VCF9060	
+
+POLITICAL FIGURE THERMOMETER: (State w/Race) Senator
+VCF9061	
+
+POLITICAL FIGURE THERMOMETER: Senator 1 (State w/o Race)
+VCF9062	
+
+POLITICAL FIGURE THERMOMETER: Senator 2 (State w/o Race)
+VCF9063	
+
+POLITICAL KNOWLEDGE: Recall Names of U.S. Senate Candidates
+VCF9064	
+
+POLITICAL KNOWLEDGE Mention 1: Recall Correct Name of U.S. Senate Candidate
+VCF9065	
+
+POLITICAL KNOWLEDGE Mention 2: Recall Correct Name of U.S. Senate Candidate
+VCF9066	
+
+POLITICAL KNOWLEDGE Mention 3: Recall Correct Name of U.S. Senate Candidate
+VCF9067	
+
+POLITICAL KNOWLEDGE: Number of Recalled Names of U.S. Senate Candidates
+VCF9069	
+
+SYSTEM SUPPORT: Strength Approve/Disapprove Running U.S. House Incumbent
+VCF9070	
+
+POLITICAL ENGAGEMENT: Agreement w/ Running House Incumbent's Legislative Votes
+VCF9071	
+
+POLITICAL ENGAGEMENT: Remember Running House U.S. House Incumbent Vote on Any Bill
+VCF9072	
+
+POLITICAL ENGAGEMENT: Agree With Running House U.S. House Incumbent Vote on Bill
+VCF9073	
+
+ISSUES: President on Defense Spending Scale
+VCF9074	
+
+ISSUES: President on Cooperation with USSR Scale
+VCF9075	
+
+ISSUES: President on Women's Equal Role Scale
+VCF9076	
+
+ISSUES: President on Aid to Blacks Scale
+VCF9077	
+
+ISSUES: President on Government Health Insurance Scale
+VCF9078	
+
+ISSUES: President on Government Spending/Services Scale
+VCF9079	
+
+ISSUES: President on Guaranteed Jobs and Living Scale
+VCF9080	
+
+ISSUES: President on Liberal-Scale
+VCF9081	
+
+CANDIDATES: Democratic Presidential Cand- Defense Spending Scale
+VCF9082	
+
+CANDIDATES: Democratic Presidential Cand- Cooperation with U.S.S.R. Scale
+VCF9083	
+
+CANDIDATES: Democratic Presidential Cand- Women Equal Role Scale
+VCF9084	
+
+CANDIDATES: Democratic Presidential Cand- Aid to Blacks Scale
+VCF9085	
+
+CANDIDATES: Democratic Presidential Cand- Government Health Insurance Scale
+VCF9086	
+
+CANDIDATES: Democratic Presidential Cand- Government Services-Spending Scale
+VCF9087	
+
+CANDIDATES: Democratic Presidential Cand- Guaranteed Jobs and Living Scale
+VCF9088	
+
+CANDIDATES: Democratic Presidential Cand- Liberal-Conservative Scale
+VCF9089	
+
+CANDIDATES: Republican Presidential Cand- Defense Spending Scale
+VCF9090	
+
+CANDIDATES: Republican Presidential Cand- Cooperation with U.S.S.R. Scale
+VCF9091	
+
+CANDIDATES: Republican Presidential Cand- Women Equal Role Scale
+VCF9092	
+
+CANDIDATES: Republican Presidential Cand- Aid to Blacks Scale
+VCF9093	
+
+CANDIDATES: Republican Presidential Cand- Government Health Insurance Scale
+VCF9094	
+
+CANDIDATES: Republican Presidential Cand- Government Services-Spending Scale
+VCF9095	
+
+CANDIDATES: Republican Presidential Cand- Guaranteed Jobs and Living Scale
+VCF9096	
+
+CANDIDATES: Republican Presidential Cand- Liberal-Conservative Scale
+VCF9097	
+
+CANDIDATES: Democratic U.S. House Cand- Women Equal Role Scale
+VCF9098	
+
+CANDIDATES: Democratic U.S. House Cand- Aid to Blacks Scale
+VCF9099	
+
+CANDIDATES: Democratic U.S. House Cand- Government Services-Spending Scale
+VCF9100	
+
+CANDIDATES: Democratic U.S. House Cand- Guaranteed Jobs and Living Scale
+VCF9101	
+
+CANDIDATES: Democratic U.S. House Cand- Liberal-Conservative Scale
+VCF9102	
+
+CANDIDATES: Republican U.S. House Cand- Women Equal Role Scale
+VCF9103	
+
+CANDIDATES: Republican U.S. House Cand- Aid to Blacks Scale
+VCF9104	
+
+CANDIDATES: Republican U.S. House Cand- Government Services-Spending Scale
+VCF9105	
+
+CANDIDATES: Republican U.S. House Cand- Guaranteed Jobs and Living Scale
+VCF9106	
+
+CANDIDATES: Republican U.S. House Cand- Liberal-Conservative Scale
+VCF9107	
+
+CANDIDATES: Incumbent U.S. House Cand- Women Equal Role Scale
+VCF9108	
+
+CANDIDATES: Incumbent U.S. House Cand- Aid to Blacks Scale
+VCF9109	
+
+CANDIDATES: Incumbent U.S. House Cand- Government Services-Spending Scale
+VCF9110	
+
+CANDIDATES: Incumbent U.S. House Cand- Guaranteed Jobs and Living Scale
+VCF9111	
+
+CANDIDATES: Incumbent U.S. House Cand- Liberal-Conservative Scale
+VCF9112	
+
+CANDIDATES: Challenger to Incumbent U.S. House Cand- Women Equal Role Scale
+VCF9113	
+
+CANDIDATES: Challenger to Incumbent U.S. House Cand- Aid to Blacks Scale
+VCF9114	
+
+CANDIDATES: Challenger to Incumbent U.S. House Cand- Government Services-Spending Scale
+VCF9115	
+
+CANDIDATES: Challenger to Incumbent U.S. House Cand- Guaranteed Jobs and Living Scale
+VCF9116	
+
+CANDIDATES: Challenger to Incumbent U.S. House Cand- Liberal-Conservative Scale
+VCF9117	
+
+ISSUES: Federal Government on Cooperation with USSR Scale
+VCF9118	
+
+ISSUES: Federal Government on Defense Spending Scale
+VCF9119	
+
+ISSUES: Federal Government on Aid to Blacks Scale
+VCF9120	
+
+ISSUES: Federal Government on Government Services/Spending Scale
+VCF9121	
+
+ISSUES: Federal Government on Guaranteed Jobs and Living Scale
+VCF9122	
+
+HOUSEHOLD COMPOSITION: Number of Politically Eligible Adults in HH
+VCF9123	
+
+STUDY ADMIN: Number of Pre-Election Interviewer Calls
+VCF9124	
+
+STUDY ADMIN: Number of Post-Election Interviewer Calls
+VCF9125	
+
+STUDY ADMIN: Post-Election Persuasion Letter
+VCF9131	
+
+SYSTEM SUPPORT: Less Government Better OR Government Do More
+VCF9132	
+
+SYSTEM SUPPORT: Govt Handle Economy OR Free Market Can Handle
+VCF9133	
+
+SYSTEM SUPPORT: Govt Too Involved in Things OR Problems Require
+VCF9134	
+
+AUTHORITARIANISM: More Important to Be Cooperative OR Self-reliant
+VCF9149	
+
+VOTE VALIDATION: Election Office Number
+VCF9150	
+
+VOTE VALIDATION: R Registration Status (Self-reported)
+VCF9151	
+
+VOTE VALIDATION: R Turnout (Self-reported)
+VCF9152	
+
+VOTE VALIDATION: Attempted Validation of Registration
+VCF9153	
+
+VOTE VALIDATION: Status of Office Voting Records
+VCF9154	
+
+VOTE VALIDATION: Was R Registration Validated
+VCF9155	
+
+VOTE VALIDATION: Was R Vote Validated

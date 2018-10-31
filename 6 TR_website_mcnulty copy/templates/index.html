@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CSS Grids</title>
+  
+  <style>
+    :root {
+      --color: #f48941;
+    }
+
+    .question_text{
+      text-align: center;
+      text-align: justify;
+      font-family:Verdana;
+      font-size:1.5em;
+      padding-bottom: 30px;
+    }
+
+    .question_answer_set{
+      background:#fff;
+      padding:1em;
+      border-radius:20px;
+      border-style:dotted;
+    }
+
+    .question_answer_set:nth-child(odd){
+      background:#ddd;
+    }
+
+    .wrapper{
+      display:grid;
+      grid-template-columns: 100%;
+      /*
+      grid-column-gap:1em;
+      grid-row-gap:1em;
+      */
+      grid-gap:1em;
+    }
+
+    .nested{
+      display:grid;
+      grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+      grid-auto-rows: auto;
+      grid-gap:0.5em;
+    }
+
+    .nested > div{
+      border:black 2px solid;
+      padding:1em;
+    }
+5   .btn:hover, .btn:focus {
+    color: var(--color);
+    border-color: black;
+    background-color: white;
+    }
+
+    /* old-school "down" effect on clic + color tweak */
+    .btn:active {
+      transform: translateY(2px);
+      /*filter: saturate(450%);*/
+    }
+
+    .btn {
+    /* default for <button>, but useful for <a> */
+    font-family:Verdana;
+    outline: none;
+    text-align: center;
+    font-size: 1em;
+  
+    /* invisible border (will be colored on hover/focus) */
+    border: solid 1px transparent;
+    border-radius: 10px;
+  
+    /* make sure colors have enough contrast! */
+    color: #ffffff;
+    background-color: var(--color);
+    }
+
+    .btn-sel{
+      text-align: center;
+      color: var(--color);
+      background:white;
+    }
+
+    .btn#submit{
+    font-size:3em;
+    }
+
+  </style>
+</head>
+
+<body>
+  <div class="wrapper">
+    <div class='question_answer_set'>
+    <div class='question_text'>
+      Most people say they belong either to the middle class or the working class. Which class would you say you belong to?
+    </div>
+    <div class="nested">
+      <div class="btn" id='VCF0149' value='0'>Lower Class</div>
+      <div class="btn" id='VCF0149' value='1'>Average Working</div>
+      <div class="btn" id='VCF0149' value='2'>Working</div>
+      <div class="btn" id='VCF0149' value='3'>Upper Working</div>
+      <div class="btn" id='VCF0149' value='4'>Average Middle</div>
+      <div class="btn" id='VCF0149' value='5'>Middle Class</div>
+      <div class="btn" id='VCF0149' value='6'>Upper Middle</div>
+      <div class="btn" id='VCF0149' value='7'>Upper Class</div>
+      <div class="btn" id='VCF0149' value='9'>Don't Know</div>
+    </div>
+  </div>
+
+    <div class='question_answer_set'>
+    <div class='question_text'>
+      The newer lifestyles are contributing to the breakdown of our society.
+    </div>
+    <div class="nested" >
+      <div class="btn" id='VCF0851' value='1'>Agree Strongly</div>
+      <div class="btn" id='VCF0851' value='2'>Agree Somewhat</div>
+      <div class="btn" id='VCF0851' value='3'>Neither Agree nor Disagree</div>
+      <div class="btn" id='VCF0851' value='4'>Disagree Somewhat</div>
+      <div class="btn" id='VCF0851' value='5'>Disagree Strongly</div>
+      <div class="btn" id='VCF0851' value='8'>Don't Know</div>
+    </div>
+    </div>
+        <div class='question_answer_set'>
+      <div class='question_text'>
+      The world is always changing and we should adjust our view of moral behavior to those changes.
+      </div>
+    <div class="nested">
+      <div class="btn" id="VCF0852" value='1'>Agree Strongly</div>
+      <div class="btn" id="VCF0852" value='2'>Agree Somewhat</div>
+      <div class="btn" id="VCF0852" value='3'>Neither Agree nor Disagree</div>
+      <div class="btn" id="VCF0852" value='4'>Disagree Somewhat</div>
+      <div class="btn" id="VCF0852" value='5'>Disagree Strongly</div>
+      <div class="btn" id="VCF0852" value='8'>Don't Know</div>  
+    </div>
+  </div>
+      <div class='question_answer_set'>
+      <div class='question_text'>
+      This country would have many fewer problems if there were more emphasis on traditional family ties.
+      </div>
+    <div class="nested">
+      <div class="btn" id="VCF0853" value='1'>Agree Strongly</div>
+      <div class="btn" id="VCF0853" value='2'>Agree Somewhat</div>
+      <div class="btn" id="VCF0853" value='3'>Neither Agree nor Disagree</div>
+      <div class="btn" id="VCF0853" value='4'>Disagree Somewhat</div>
+      <div class="btn" id="VCF0853" value='5'>Disagree Strongly</div>
+      <div class="btn" id="VCF0853" value='8'>Don't Know</div>  
+    </div>
+  </div>
+      <div class='question_answer_set'>
+      <div class='question_text'>
+      Which of the following is closer to your own views? ONE, the less government the better; or TWO, there are more things that government should be doing
+      </div>
+    <div class="nested">
+      <div class="btn" id="VCF9131" value='1'>Less government the better</div>
+      <div class="btn" id="VCF9131" value='8'>Don't know/both/depends</div>
+      <div class="btn" id="VCF9131" value='2'>More things government should be doing</div>
+    </div>
+      
+    </div>
+        <div class='question_answer_set'>
+      <div class='question_text'>
+      Do you think the number of immigrants from foreign countries who are permitted to come to the United States to live should be increased a lot, increased a little, left the same as it is now, decreased a little, or decreased a lot?
+      </div>
+    <div class="nested">
+      <div class="btn" id="VCF0879a" value='1'>Increased a lot</div>
+      <div class="btn" id="VCF0879a" value='2'>Increased a little</div>
+      <div class="btn" id="VCF0879a" value='3'>Same as now</div>
+      <div class="btn" id="VCF0879a" value='4'>Decreased a little</div>
+      <div class="btn" id="VCF0879a" value='5'>Decreased a lot</div>
+      <div class="btn" id="VCF0879a" value='8'>Don't know</div>
+    </div> 
+    </div>
+        <div class='question_answer_set'> 
+    <div class='question_text'>
+      Generations of slavery and discrimination have created conditions that make it difficult for blacks to work their way out of the lower class.
+      </div>
+    <div class="nested">
+      <div class="btn" id="VCF9039" value='1'>Agree strongly</div>
+      <div class="btn" id="VCF9039" value='2'>Agree somewhat</div>
+      <div class="btn" id="VCF9039" value='3'>Neither agree nor disagree</div>
+      <div class="btn" id="VCF9039" value='4'>Disagree somewhat</div>
+      <div class="btn" id="VCF9039" value='5'>Disagree strongly</div>
+      <div class="btn" id="VCF9039" value='8'>Don't know</div>
+    </div>  
+  </div>  
+      <div class='question_answer_set'>
+      <div class='question_text'>
+      It's really a matter of some people not trying hard enough; if blacks would only try harder they could be just as well off as whites.
+      </div>
+     <div class="nested">
+      <div class="btn" id="VCF9041" value='1'>Agree strongly</div>
+      <div class="btn" id="VCF9041" value='2'>Agree somewhat</div>
+      <div class="btn" id="VCF9041" value='3'>Neither agree nor disagree</div>
+      <div class="btn" id="VCF9041" value='4'>Disagree somewhat</div>
+      <div class="btn" id="VCF9041" value='5'>Disagree strongly</div>
+      <div class="btn" id="VCF9041" value='8'>Don't know</div>
+    </div> 
+  </div>
+     <div class='question_answer_set'>
+      <div class='question_text'>
+      It is not really that big a problem if some people have more of a chance in life than others.
+      </div>
+    <div class="nested">
+      <div class="btn" id="VCF9016" value='1'>Agree strongly</div>
+      <div class="btn" id="VCF9016" value='2'>Agree somewhat</div>
+      <div class="btn" id="VCF9016" value='3'>Neither agree nor disagree</div>
+      <div class="btn" id="VCF9016" value='4'>Disagree somewhat</div>
+      <div class="btn" id="VCF9016" value='5'>Disagree strongly</div>
+      <div class="btn" id="VCF9016" value='8'>Don't know</div>
+    </div> 
+  </div>
+      <div class='question_answer_set'>
+    <div class='question_text'>
+      This country would be better off if we worried less about how equal people are.
+    </div>
+    <div class="nested">
+      <div class="btn" id="VCF9017" value='1'>Agree strongly</div>
+      <div class="btn" id="VCF9017" value='2'>Agree somewhat</div>
+      <div class="btn" id="VCF9017" value='3'>Neither agree nor disagree</div>
+      <div class="btn" id="VCF9017" value='4'>Disagree somewhat</div>
+      <div class="btn" id="VCF9017" value='5'>Disagree strongly</div>
+      <div class="btn" id="VCF9017" value='8'>Don't know</div>
+    </div> 
+  </div>
+      <div class='question_answer_set'>
+      <div class='question_text'>
+      Should federal spending be increased, decreased or kept about the same for welfare programs?
+    </div>
+    <div class="nested">
+      <div class="btn" id="VCF0894" value='1'>Increased</div>
+      <div class="btn" id="VCF0894" value='2'>Same</div>
+      <div class="btn" id="VCF0894" value='3'>Decreased</div>
+      <div class="btn" id="VCF0894" value='8'>Don't know</div>
+    </div> 
+  </div>
+  <form method="POST">
+    <div class="nested">
+      <div class="btn" id="submit">Submit</div>
+    </div>
+  </form>
+  </div>
+  
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script> 
+  <script src="static/jquery.js"></script>
+ 
+</body>
+</html>
