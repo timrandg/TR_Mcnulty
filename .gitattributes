@@ -1,0 +1,2 @@
+data/anes_timeseries_cdf.dta filter=lfs diff=lfs merge=lfs -text
+pickles/anes_column_names_1.pkl filter=lfs diff=lfs merge=lfs -text
